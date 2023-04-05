@@ -1,4 +1,6 @@
-comparing up regulation of p-sgELF1-2  and  p-sgELF1-5 : 
+comparing up regulation of  p-sgELF1-2  and  p-sgELF1-5 : 
+The target gene was not upregulated by either perturbation
+ratio:  0.3
 the unqiue 16  elements in  p-sgELF1-2
 [('CTNNBIP1', '0.2174'), ('PGD', '0.2273'), ('SMYD3', '0.2034'), ('MRPL53', '0.3085'), ('TMSB10', '0.2357'), ('NBEAL1', '0.2129'), ('TMSB4X', '0.2298'), ('FTSJ1', '0.3156'), ('C8orf82', '0.2973'), ('TMEM141', '0.2165'), ('PCBD1', '0.214'), ('C12orf57', '0.2241'), ('RP11-433M22.2', '4.427'), ('MYBL2', '0.2502'), ('SH3BGR', '0.3323'), ('SPATC1L', '0.218')]
 the unique 14  elements in  p-sgELF1-5
@@ -7,7 +9,9 @@ the shared 9  elements:
 [('CXCL14', '0.3709', '0.3641'), ('HIST1H2BJ', '0.2897', '0.3389'), ('LST1', '1.1307', '0.9185'), ('JPX', '0.243', '0.2801'), ('FUOM', '0.2692', '0.2354'), ('PHB2', '0.2114', '0.235'), ('PSME2', '0.2071', '0.2435'), ('PGLS', '0.2266', '0.237'), ('TYROBP', '0.3312', '0.353')] 
 
 
-comparing up regulation of p-sgELF1-2  and  p-sgELF1-1 : 
+comparing up regulation of  p-sgELF1-2  and  p-sgELF1-1 : 
+The target gene was not upregulated by either perturbation
+ratio:  0.15384615384615385
 the unqiue 19  elements in  p-sgELF1-2
 [('CTNNBIP1', '0.2174'), ('PGD', '0.2273'), ('SMYD3', '0.2034'), ('MRPL53', '0.3085'), ('LST1', '1.1307'), ('TMSB4X', '0.2298'), ('FTSJ1', '0.3156'), ('JPX', '0.243'), ('C8orf82', '0.2973'), ('TMEM141', '0.2165'), ('PCBD1', '0.214'), ('FUOM', '0.2692'), ('PHB2', '0.2114'), ('RP11-433M22.2', '4.427'), ('MYBL2', '0.2502'), ('PGLS', '0.2266'), ('TYROBP', '0.3312'), ('SH3BGR', '0.3323'), ('SPATC1L', '0.218')]
 the unique 20  elements in  p-sgELF1-1
@@ -16,7 +20,9 @@ the shared 6  elements:
 [('TMSB10', '0.2357', '0.2159'), ('NBEAL1', '0.2129', '0.2121'), ('CXCL14', '0.3709', '0.4003'), ('HIST1H2BJ', '0.2897', '0.2967'), ('C12orf57', '0.2241', '0.2084'), ('PSME2', '0.2071', '0.2043')] 
 
 
-comparing up regulation of p-sgELF1-2  and  p-sgELF1-4 : 
+comparing up regulation of  p-sgELF1-2  and  p-sgELF1-4 : 
+The target gene was not upregulated by either perturbation
+ratio:  0.18421052631578946
 the unqiue 18  elements in  p-sgELF1-2
 [('CTNNBIP1', '0.2174'), ('PGD', '0.2273'), ('SMYD3', '0.2034'), ('MRPL53', '0.3085'), ('TMSB10', '0.2357'), ('NBEAL1', '0.2129'), ('LST1', '1.1307'), ('FTSJ1', '0.3156'), ('C8orf82', '0.2973'), ('TMEM141', '0.2165'), ('PCBD1', '0.214'), ('C12orf57', '0.2241'), ('PHB2', '0.2114'), ('RP11-433M22.2', '4.427'), ('PGLS', '0.2266'), ('TYROBP', '0.3312'), ('SH3BGR', '0.3323'), ('SPATC1L', '0.218')]
 the unique 20  elements in  p-sgELF1-4
@@ -25,7 +31,9 @@ the shared 7  elements:
 [('CXCL14', '0.3709', '0.4308'), ('HIST1H2BJ', '0.2897', '0.2608'), ('TMSB4X', '0.2298', '0.2155'), ('JPX', '0.243', '0.3379'), ('FUOM', '0.2692', '0.2676'), ('PSME2', '0.2071', '0.2235'), ('MYBL2', '0.2502', '0.2512')] 
 
 
-comparing up regulation of p-sgELF1-5  and  p-sgELF1-1 : 
+comparing up regulation of  p-sgELF1-5  and  p-sgELF1-1 : 
+The target gene was not upregulated by either perturbation
+ratio:  0.16216216216216217
 the unqiue 17  elements in  p-sgELF1-5
 [('LST1', '0.9185'), ('NUDT1', '0.2044'), ('SOSTDC1', '0.5039'), ('JPX', '0.2801'), ('FXN', '0.2476'), ('PHF19', '0.2055'), ('FUOM', '0.2354'), ('FIBP', '0.3254'), ('RPS6KB2', '0.2008'), ('PHB2', '0.235'), ('CDKN3', '0.2782'), ('GCHFR', '0.2223'), ('TMEM219', '0.2046'), ('ECSIT', '0.257'), ('PGLS', '0.237'), ('RFXANK', '0.202'), ('TYROBP', '0.353')]
 the unique 20  elements in  p-sgELF1-1
@@ -34,7 +42,9 @@ the shared 6  elements:
 [('CXCL14', '0.3641', '0.4003'), ('HIST1H2BJ', '0.3389', '0.2967'), ('SLC25A6', '0.2028', '0.2031'), ('PRR13', '0.216', '0.2061'), ('PSME2', '0.2435', '0.2043'), ('MRPL12', '0.2248', '0.2043')] 
 
 
-comparing up regulation of p-sgELF1-5  and  p-sgELF1-4 : 
+comparing up regulation of  p-sgELF1-5  and  p-sgELF1-4 : 
+The target gene was not upregulated by either perturbation
+ratio:  0.15789473684210525
 the unqiue 17  elements in  p-sgELF1-5
 [('LST1', '0.9185'), ('NUDT1', '0.2044'), ('SOSTDC1', '0.5039'), ('SLC25A6', '0.2028'), ('FXN', '0.2476'), ('PHF19', '0.2055'), ('FIBP', '0.3254'), ('RPS6KB2', '0.2008'), ('PHB2', '0.235'), ('PRR13', '0.216'), ('CDKN3', '0.2782'), ('GCHFR', '0.2223'), ('TMEM219', '0.2046'), ('ECSIT', '0.257'), ('PGLS', '0.237'), ('RFXANK', '0.202'), ('TYROBP', '0.353')]
 the unique 21  elements in  p-sgELF1-4
@@ -43,7 +53,9 @@ the shared 6  elements:
 [('CXCL14', '0.3641', '0.4308'), ('HIST1H2BJ', '0.3389', '0.2608'), ('JPX', '0.2801', '0.3379'), ('FUOM', '0.2354', '0.2676'), ('PSME2', '0.2435', '0.2235'), ('MRPL12', '0.2248', '0.2082')] 
 
 
-comparing up regulation of p-sgELF1-1  and  p-sgELF1-4 : 
+comparing up regulation of  p-sgELF1-1  and  p-sgELF1-4 : 
+The target gene was not upregulated by either perturbation
+ratio:  0.1794871794871795
 the unqiue 19  elements in  p-sgELF1-1
 [('CENPA', '0.254'), ('TMSB10', '0.2159'), ('CHCHD5', '0.2006'), ('NBEAL1', '0.2121'), ('C3orf38', '0.6252'), ('SLC25A6', '0.2031'), ('SUSD3', '0.392'), ('RASGEF1A', '0.4818'), ('C12orf57', '0.2084'), ('PRR13', '0.2061'), ('SOCS2', '0.2327'), ('ACSM3', '0.2059'), ('GINS2', '0.2169'), ('CDT1', '0.2391'), ('FLOT2', '0.2877'), ('MED29', '0.3901'), ('ATF5', '0.2851'), ('BCL2L13', '0.2809'), ('LGALS1', '0.2004')]
 the unique 20  elements in  p-sgELF1-4
@@ -52,7 +64,9 @@ the shared 7  elements:
 [('SRM', '0.2042', '0.2007'), ('CXCL14', '0.4003', '0.4308'), ('HIST1H2BJ', '0.2967', '0.2608'), ('COQ4', '0.2158', '0.2209'), ('PSME2', '0.2043', '0.2235'), ('SKA2', '0.2507', '0.2466'), ('MRPL12', '0.2043', '0.2082')] 
 
 
-comparing up regulation of p-sgCREB1-5  and  p-sgCREB1-4 : 
+comparing up regulation of  p-sgCREB1-5  and  p-sgCREB1-4 : 
+The target gene was not upregulated by either perturbation
+ratio:  0.08333333333333333
 the unqiue 24  elements in  p-sgCREB1-5
 [('SRM', '0.2132'), ('CENPA', '0.2131'), ('NBEAL1', '0.2094'), ('POMGNT2', '0.5577'), ('CXCL14', '0.39'), ('RBM3', '0.2214'), ('JPX', '0.2963'), ('RPL39', '0.2038'), ('YWHAZ', '0.2215'), ('SIRT1', '0.6726'), ('PPP1R14B', '0.2058'), ('TMEM106C', '0.3111'), ('CRADD', '0.2709'), ('FAM101B', '0.3904'), ('COA3', '0.2211'), ('CBX1', '0.2689'), ('MRPL12', '0.2083'), ('ICAM3', '0.2353'), ('PRR24', '0.2491'), ('NR1H2', '0.4141'), ('C19orf81', '0.2227'), ('EPN1', '0.3215'), ('SLC27A5', '0.2162'), ('UBE2M', '0.2914')]
 the unique 24  elements in  p-sgCREB1-4
@@ -61,7 +75,9 @@ the shared 4  elements:
 [('LINC01033', '0.2516', '0.2471'), ('HIST1H2BJ', '0.2912', '0.2644'), ('RP11-433M22.2', '3.6098', '5.2132'), ('MYBL2', '0.2591', '0.276')] 
 
 
-comparing up regulation of p-sgCREB1-5  and  p-sgCREB1-2 : 
+comparing up regulation of  p-sgCREB1-5  and  p-sgCREB1-2 : 
+The target gene was not upregulated by either perturbation
+ratio:  0.3142857142857143
 the unqiue 17  elements in  p-sgCREB1-5
 [('CENPA', '0.2131'), ('NBEAL1', '0.2094'), ('POMGNT2', '0.5577'), ('RBM3', '0.2214'), ('RPL39', '0.2038'), ('YWHAZ', '0.2215'), ('SIRT1', '0.6726'), ('TMEM106C', '0.3111'), ('CRADD', '0.2709'), ('FAM101B', '0.3904'), ('COA3', '0.2211'), ('CBX1', '0.2689'), ('MRPL12', '0.2083'), ('MYBL2', '0.2591'), ('ICAM3', '0.2353'), ('C19orf81', '0.2227'), ('SLC27A5', '0.2162')]
 the unique 18  elements in  p-sgCREB1-2
@@ -70,7 +86,9 @@ the shared 11  elements:
 [('SRM', '0.2132', '0.2385'), ('LINC01033', '0.2516', '0.2918'), ('CXCL14', '0.39', '0.358'), ('HIST1H2BJ', '0.2912', '0.2623'), ('JPX', '0.2963', '0.2703'), ('PPP1R14B', '0.2058', '0.2459'), ('RP11-433M22.2', '3.6098', '2.5502'), ('PRR24', '0.2491', '0.3268'), ('NR1H2', '0.4141', '0.3764'), ('EPN1', '0.3215', '0.2919'), ('UBE2M', '0.2914', '0.2654')] 
 
 
-comparing up regulation of p-sgCREB1-4  and  p-sgCREB1-2 : 
+comparing up regulation of  p-sgCREB1-4  and  p-sgCREB1-2 : 
+The target gene was not upregulated by either perturbation
+ratio:  0.10638297872340426
 the unqiue 23  elements in  p-sgCREB1-4
 [('RP11-558F24.4', '0.2927'), ('PGD', '0.217'), ('POLE4', '0.2059'), ('LIMS1', '0.2164'), ('HIST1H4C', '0.206'), ('CCDC167', '0.2221'), ('MPLKIP', '0.2761'), ('PRKAR2B', '0.2854'), ('AC073236.3', '0.2029'), ('MAGED1', '0.8921'), ('RP11-10A14.5', '0.4185'), ('HEMGN', '0.3232'), ('CCDC34', '0.216'), ('MYL6B', '0.2359'), ('PSME1', '0.2821'), ('PSME2', '0.2387'), ('IER3IP1-1', '0.2075'), ('MMP24-AS1', '0.2413'), ('MYBL2', '0.276'), ('PPP4R1L', '1.015'), ('ZNF607', '0.531'), ('LENG8', '0.297'), ('SPATC1L', '0.2152')]
 the unique 24  elements in  p-sgCREB1-2
@@ -79,7 +97,9 @@ the shared 5  elements:
 [('LINC01033', '0.2471', '0.2918'), ('HIST1H2BJ', '0.2644', '0.2623'), ('RP11-433M22.2', '5.2132', '2.5502'), ('SKA2', '0.2961', '0.2602'), ('RPSAP58', '0.21', '0.2193')] 
 
 
-comparing up regulation of p-sgEGR1-4  and  p-sgEGR1-2 : 
+comparing up regulation of  p-sgEGR1-4  and  p-sgEGR1-2 : 
+The target gene was not upregulated by either perturbation
+ratio:  0.16326530612244897
 the unqiue 28  elements in  p-sgEGR1-4
 [('HES4', '0.2284'), ('STRADB', '0.5176'), ('HIST1H2BC', '0.2616'), ('JPX', '0.3201'), ('HMGB3', '0.2183'), ('NAA10', '0.2003'), ('COQ4', '0.2679'), ('TAF10', '0.2402'), ('C11orf24', '0.2523'), ('LAMTOR1', '0.2022'), ('PHB2', '0.2314'), ('SMAGP', '0.2327'), ('MRP63', '0.2112'), ('NME4', '0.2155'), ('STUB1', '0.2061'), ('HN1L', '0.272'), ('NTHL1', '0.2416'), ('E2F4', '0.2423'), ('GCSH', '0.6186'), ('GINS2', '0.2427'), ('COA3', '0.2439'), ('MRPL10', '0.2387'), ('MRPL12', '0.2399'), ('TYMS', '0.2382'), ('PRR24', '0.263'), ('PRPF31', '0.2422'), ('RRP7A', '0.2872'), ('TYMP', '0.3986')]
 the unique 21  elements in  p-sgEGR1-2
@@ -88,7 +108,9 @@ the shared 8  elements:
 [('SRM', '0.2211', '0.2086'), ('CENPA', '0.2165', '0.2323'), ('POLR2D', '0.3174', '0.2689'), ('CXCL14', '0.3914', '0.3519'), ('HIST1H2BJ', '0.3459', '0.2542'), ('FAM58A', '0.3667', '0.297'), ('PRR13', '0.2608', '0.2223'), ('PSME2', '0.2392', '0.2875')] 
 
 
-comparing up regulation of p-sgEGR1-4  and  p-sgEGR1-3 : 
+comparing up regulation of  p-sgEGR1-4  and  p-sgEGR1-3 : 
+The target gene was not upregulated by either perturbation
+ratio:  0.10204081632653061
 the unqiue 31  elements in  p-sgEGR1-4
 [('HES4', '0.2284'), ('SRM', '0.2211'), ('CENPA', '0.2165'), ('POLR2D', '0.3174'), ('STRADB', '0.5176'), ('HIST1H2BC', '0.2616'), ('HMGB3', '0.2183'), ('FAM58A', '0.3667'), ('NAA10', '0.2003'), ('COQ4', '0.2679'), ('C11orf24', '0.2523'), ('LAMTOR1', '0.2022'), ('PHB2', '0.2314'), ('SMAGP', '0.2327'), ('PRR13', '0.2608'), ('MRP63', '0.2112'), ('NME4', '0.2155'), ('STUB1', '0.2061'), ('HN1L', '0.272'), ('NTHL1', '0.2416'), ('E2F4', '0.2423'), ('GCSH', '0.6186'), ('GINS2', '0.2427'), ('COA3', '0.2439'), ('MRPL10', '0.2387'), ('MRPL12', '0.2399'), ('TYMS', '0.2382'), ('PRR24', '0.263'), ('PRPF31', '0.2422'), ('RRP7A', '0.2872'), ('TYMP', '0.3986')]
 the unique 18  elements in  p-sgEGR1-3
@@ -97,7 +119,9 @@ the shared 5  elements:
 [('CXCL14', '0.3914', '0.3878'), ('HIST1H2BJ', '0.3459', '0.2978'), ('JPX', '0.3201', '0.299'), ('TAF10', '0.2402', '0.2208'), ('PSME2', '0.2392', '0.2623')] 
 
 
-comparing up regulation of p-sgEGR1-2  and  p-sgEGR1-3 : 
+comparing up regulation of  p-sgEGR1-2  and  p-sgEGR1-3 : 
+The target gene was not upregulated by either perturbation
+ratio:  0.11904761904761904
 the unqiue 24  elements in  p-sgEGR1-2
 [('PGD', '0.2045'), ('SRM', '0.2086'), ('PTRHD1', '0.2108'), ('CENPA', '0.2323'), ('GTF3C2', '0.4615'), ('MRPL53', '0.2875'), ('GCFC2', '0.4752'), ('POLR2D', '0.2689'), ('OXNAD1', '0.4005'), ('LINC01033', '0.2474'), ('HIST1H4C', '0.2084'), ('MPLKIP', '0.2179'), ('BRI3', '0.2839'), ('C7orf73', '0.2012'), ('FAM58A', '0.297'), ('FUOM', '0.2943'), ('PRR13', '0.2223'), ('GCHFR', '0.2482'), ('HDDC3', '0.2626'), ('RPUSD1', '0.4062'), ('TMEM219', '0.2047'), ('MYBL2', '0.2784'), ('CTD-2369P2.8', '1.2241'), ('TYROBP', '0.3504')]
 the unique 18  elements in  p-sgEGR1-3
@@ -106,7 +130,9 @@ the shared 5  elements:
 [('FAM89A', '0.325', '0.3238'), ('RAB28', '0.4844', '0.5134'), ('CXCL14', '0.3519', '0.3878'), ('HIST1H2BJ', '0.2542', '0.2978'), ('PSME2', '0.2875', '0.2623')] 
 
 
-comparing up regulation of p-sgELK1-6  and  p-sgELK1-7 : 
+comparing up regulation of  p-sgELK1-6  and  p-sgELK1-7 : 
+The target gene was not upregulated by either perturbation
+ratio:  0.13157894736842105
 the unqiue 22  elements in  p-sgELK1-6
 [('HES4', '0.2201'), ('SRM', '0.2089'), ('LYPLA2', '0.2615'), ('DUSP12', '0.3191'), ('PTRHD1', '0.2284'), ('POLR2D', '0.272'), ('AC018890.6', '1.0512'), ('NBEAL1', '0.2113'), ('H1FX', '0.2924'), ('ANAPC13', '0.2004'), ('LINC01033', '0.2578'), ('HIST1H4C', '0.2078'), ('HIST1H2BJ', '0.2704'), ('JHDM1D-AS1', '0.8659'), ('MAGED1', '0.6621'), ('PCBD1', '0.2011'), ('PPP1R14B', '0.2012'), ('MCRS1', '0.2712'), ('GCHFR', '0.2267'), ('RP11-433M22.2', '4.2354'), ('MRPL12', '0.2065'), ('C22orf39', '0.2082')]
 the unique 16  elements in  p-sgELK1-7
@@ -115,7 +141,9 @@ the shared 5  elements:
 [('SOSTDC1', '0.4539', '0.6008'), ('RBM3', '0.2097', '0.2127'), ('JPX', '0.3064', '0.2454'), ('MYL6B', '0.2047', '0.2071'), ('PGLS', '0.2475', '0.2215')] 
 
 
-comparing up regulation of p-sgELK1-6  and  p-sgELK1-1 : 
+comparing up regulation of  p-sgELK1-6  and  p-sgELK1-1 : 
+The target gene was not upregulated by either perturbation
+ratio:  0.09090909090909091
 the unqiue 23  elements in  p-sgELK1-6
 [('HES4', '0.2201'), ('SRM', '0.2089'), ('LYPLA2', '0.2615'), ('DUSP12', '0.3191'), ('PTRHD1', '0.2284'), ('POLR2D', '0.272'), ('AC018890.6', '1.0512'), ('NBEAL1', '0.2113'), ('ANAPC13', '0.2004'), ('LINC01033', '0.2578'), ('HIST1H4C', '0.2078'), ('HIST1H2BJ', '0.2704'), ('SOSTDC1', '0.4539'), ('JHDM1D-AS1', '0.8659'), ('RBM3', '0.2097'), ('MAGED1', '0.6621'), ('PCBD1', '0.2011'), ('PPP1R14B', '0.2012'), ('MCRS1', '0.2712'), ('GCHFR', '0.2267'), ('MRPL12', '0.2065'), ('PGLS', '0.2475'), ('C22orf39', '0.2082')]
 the unique 21  elements in  p-sgELK1-1
@@ -124,7 +152,9 @@ the shared 4  elements:
 [('H1FX', '0.2924', '0.2989'), ('JPX', '0.3064', '0.2764'), ('MYL6B', '0.2047', '0.2146'), ('RP11-433M22.2', '4.2354', '2.1517')] 
 
 
-comparing up regulation of p-sgELK1-7  and  p-sgELK1-1 : 
+comparing up regulation of  p-sgELK1-7  and  p-sgELK1-1 : 
+The target gene was not upregulated by either perturbation
+ratio:  0.075
 the unqiue 18  elements in  p-sgELK1-7
 [('R3HDM1', '0.3697'), ('MEF2C', '0.23'), ('DCP2', '0.2665'), ('GNA12', '0.6274'), ('SOSTDC1', '0.6008'), ('AP1S2', '0.2872'), ('RBM3', '0.2127'), ('TAF10', '0.2485'), ('PHB2', '0.2181'), ('LIMA1', '0.5188'), ('SOCS2', '0.2542'), ('CRADD', '0.2946'), ('PSME2', '0.2367'), ('RPUSD1', '0.3787'), ('CTD-2576D5.4', '0.316'), ('GINS2', '0.2347'), ('TOP2A', '0.2354'), ('PGLS', '0.2215')]
 the unique 22  elements in  p-sgELK1-1
@@ -133,7 +163,9 @@ the shared 3  elements:
 [('CXCL14', '0.3293', '0.4104'), ('JPX', '0.2454', '0.2764'), ('MYL6B', '0.2071', '0.2146')] 
 
 
-comparing up regulation of p-sgNR2C2-5  and  p-sgNR2C2-3 : 
+comparing up regulation of  p-sgNR2C2-5  and  p-sgNR2C2-3 : 
+The target gene was not upregulated by either perturbation
+ratio:  0.18604651162790697
 the unqiue 17  elements in  p-sgNR2C2-5
 [('UBE2E1', '0.2653'), ('COX17', '0.3784'), ('ATP5I', '0.2933'), ('LST1', '0.9087'), ('BRI3', '0.2246'), ('CSAG1', '0.2138'), ('RPL35', '0.227'), ('PCBD1', '0.2323'), ('POLD4', '0.2393'), ('ANAPC15', '0.4084'), ('CDKN3', '0.237'), ('SNW1', '0.2731'), ('TMEM219', '0.2016'), ('CTD-3195I5.1', '1.1085'), ('MRPL10', '0.2619'), ('TPGS2', '0.2021'), ('SNRPD3', '0.2074')]
 the unique 26  elements in  p-sgNR2C2-3
@@ -142,7 +174,9 @@ the shared 8  elements:
 [('TMSB10', '0.2333', '0.2407'), ('POLR2D', '0.2763', '0.3385'), ('NBEAL1', '0.2254', '0.2159'), ('H1FX', '0.3358', '0.3764'), ('ERGIC1', '0.4008', '0.3627'), ('HIST1H2BJ', '0.2147', '0.2888'), ('SLC25A6', '0.206', '0.2311'), ('PGLS', '0.2129', '0.2148')] 
 
 
-comparing up regulation of p-sgNR2C2-5  and  p-sgNR2C2-2 : 
+comparing up regulation of  p-sgNR2C2-5  and  p-sgNR2C2-2 : 
+The target gene was not upregulated by either perturbation
+ratio:  0.08333333333333333
 the unqiue 20  elements in  p-sgNR2C2-5
 [('TMSB10', '0.2333'), ('POLR2D', '0.2763'), ('UBE2E1', '0.2653'), ('H1FX', '0.3358'), ('ATP5I', '0.2933'), ('ERGIC1', '0.4008'), ('HIST1H2BJ', '0.2147'), ('LST1', '0.9087'), ('BRI3', '0.2246'), ('CSAG1', '0.2138'), ('RPL35', '0.227'), ('POLD4', '0.2393'), ('ANAPC15', '0.4084'), ('CDKN3', '0.237'), ('SNW1', '0.2731'), ('TMEM219', '0.2016'), ('MRPL10', '0.2619'), ('TPGS2', '0.2021'), ('PGLS', '0.2129'), ('SNRPD3', '0.2074')]
 the unique 40  elements in  p-sgNR2C2-2
@@ -151,7 +185,9 @@ the shared 5  elements:
 [('NBEAL1', '0.2254', '0.2012'), ('COX17', '0.3784', '0.2715'), ('SLC25A6', '0.206', '0.2028'), ('PCBD1', '0.2323', '0.2224'), ('CTD-3195I5.1', '1.1085', '1.5068')] 
 
 
-comparing up regulation of p-sgNR2C2-3  and  p-sgNR2C2-2 : 
+comparing up regulation of  p-sgNR2C2-3  and  p-sgNR2C2-2 : 
+The target gene was not upregulated by either perturbation
+ratio:  0.1076923076923077
 the unqiue 27  elements in  p-sgNR2C2-3
 [('PGD', '0.2595'), ('TMSB10', '0.2407'), ('POLR2D', '0.3385'), ('RPL29', '0.2028'), ('H1FX', '0.3764'), ('MSL2', '0.9201'), ('CTBP1', '0.3789'), ('LINC01033', '0.2977'), ('ERGIC1', '0.3627'), ('HIST1H4C', '0.223'), ('HIST1H4H', '0.3295'), ('HIST1H2BJ', '0.2888'), ('MPLKIP', '0.237'), ('ARHGAP6', '0.2938'), ('FPGS', '0.4164'), ('RASGEF1A', '0.4788'), ('PHB2', '0.2267'), ('RPL41', '0.2198'), ('FAM96A', '0.2044'), ('SF3B3', '0.2787'), ('ACLY', '0.3044'), ('PTRF', '0.2186'), ('SMAD2', '0.5669'), ('PGLS', '0.2148'), ('ZNF83', '0.4748'), ('ZNF787', '0.4855'), ('MPST', '0.2098')]
 the unique 38  elements in  p-sgNR2C2-2
@@ -160,7 +196,9 @@ the shared 7  elements:
 [('NBEAL1', '0.2159', '0.2012'), ('CXCL14', '0.3955', '0.6181'), ('SLC25A6', '0.2311', '0.2028'), ('JPX', '0.2747', '0.3415'), ('RPUSD1', '0.425', '0.397'), ('RPL17', '0.2156', '0.2199'), ('EIF3L', '0.2143', '0.2513')] 
 
 
-comparing up regulation of p-sgGABPA-1  and  p-sgGABPA-9 : 
+comparing up regulation of  p-sgGABPA-1  and  p-sgGABPA-9 : 
+The target gene was not upregulated by either perturbation
+ratio:  0.04716981132075472
 the unqiue 12  elements in  p-sgGABPA-1
 [('SRM', '0.2045'), ('KIAA1522', '0.3882'), ('MRPL53', '0.3188'), ('KRIT1', '0.27'), ('BRI3', '0.243'), ('MAGED1', '0.837'), ('JPX', '0.2729'), ('RP11-10A14.5', '0.4063'), ('FPGS', '0.4121'), ('MED27', '0.5065'), ('SNW1', '0.2628'), ('MT1E', '1.8772')]
 the unique 94  elements in  p-sgGABPA-9
@@ -169,7 +207,9 @@ the shared 5  elements:
 [('CXCL14', '0.4199', '0.5055'), ('HIST1H2BJ', '0.22', '0.3037'), ('PPP1R14B', '0.2338', '0.2166'), ('CDKN3', '0.2954', '0.2517'), ('GCHFR', '0.2976', '0.2377')] 
 
 
-comparing up regulation of p-sgYY1-3  and  p-sgYY1-10 : 
+comparing up regulation of  p-sgYY1-3  and  p-sgYY1-10 : 
+The target gene was not upregulated by either perturbation
+ratio:  0.15
 the unqiue 21  elements in  p-sgYY1-3
 [('CENPA', '0.3082'), ('ACTR2', '0.2148'), ('AC016723.4', '0.2337'), ('C3orf62', '0.8288'), ('CDV3', '0.2847'), ('LST1', '1.011'), ('SOSTDC1', '0.4138'), ('BRI3', '0.2411'), ('JPX', '0.2562'), ('ARHGEF39', '0.6005'), ('C10orf54', '0.5308'), ('SH2B3', '0.5044'), ('CKAP2', '0.4023'), ('PSME2', '0.2006'), ('CDKN3', '0.2453'), ('CBX1', '0.3156'), ('HOXB2', '0.2256'), ('PRR24', '0.3157'), ('NR1H2', '0.372'), ('C19orf81', '0.204'), ('UBE2M', '0.2617')]
 the unique 59  elements in  p-sgYY1-10
@@ -178,7 +218,9 @@ the shared 12  elements:
 [('SPRR2D', '1.7184', '2.9259'), ('TMSB10', '0.2045', '0.3077'), ('H1FX', '0.3042', '0.3763'), ('RNF130', '0.2767', '0.4886'), ('HIST1H4C', '0.2111', '0.2656'), ('MAGED1', '0.709', '0.7873'), ('RPL39', '0.2269', '0.2945'), ('SNCG', '0.2829', '0.3447'), ('POLD4', '0.2426', '0.2421'), ('RP11-433M22.2', '3.2105', '5.44'), ('TYROBP', '0.4598', '0.3408'), ('ATF5', '0.2152', '0.2497')] 
 
 
-comparing up regulation of p-sgETS1-5  and  p-sgETS1-3 : 
+comparing up regulation of  p-sgETS1-5  and  p-sgETS1-3 : 
+The target gene was not upregulated by either perturbation
+ratio:  0.022222222222222223
 the unqiue 21  elements in  p-sgETS1-5
 [('HES4', '0.2294'), ('SRM', '0.2435'), ('SLC16A1-AS1', '0.6808'), ('GTF3C2', '0.3633'), ('MRPS30', '0.2089'), ('CXCL14', '0.374'), ('ERGIC1', '0.3593'), ('BRI3', '0.2459'), ('JPX', '0.2425'), ('RPL39', '0.2216'), ('DGAT1', '0.2956'), ('PCBD1', '0.2001'), ('ZNF511', '0.2322'), ('FUOM', '0.2725'), ('PPP1R14B', '0.2484'), ('PRR13', '0.2154'), ('NR2F2-AS1', '1.1175'), ('RANGRF', '0.4096'), ('CBX1', '0.2953'), ('HOXB2', '0.2527'), ('PGLS', '0.2177')]
 the unique 24  elements in  p-sgETS1-3
@@ -187,7 +229,9 @@ the shared 1  elements:
 [('MRPL12', '0.2008', '0.2031')] 
 
 
-comparing up regulation of p-sgIRF1-3  and  p-sgIRF1-2 : 
+comparing up regulation of  p-sgIRF1-3  and  p-sgIRF1-2 : 
+The target gene was not upregulated by either perturbation
+ratio:  0.0821917808219178
 the unqiue 44  elements in  p-sgIRF1-3
 [('HES4', '0.2069'), ('SMIM1', '0.2294'), ('SRM', '0.2341'), ('KIAA1522', '0.3992'), ('NAV1', '0.4028'), ('POLE4', '0.2192'), ('COA5', '0.2724'), ('THAP4', '0.3571'), ('NDUFAF3', '0.2009'), ('FOXL2', '0.461'), ('POLD2', '0.2368'), ('POP7', '0.2016'), ('MAGED1', '0.829'), ('HMGN5', '0.6799'), ('YWHAZ', '0.2722'), ('SUSD3', '0.3983'), ('COQ4', '0.2643'), ('FUOM', '0.2798'), ('PPP1R14B', '0.238'), ('PHB2', '0.2047'), ('PRR13', '0.2124'), ('MRP63', '0.2049'), ('GCHFR', '0.3195'), ('RFX7', '1.2391'), ('ARID3B', '0.7571'), ('NME4', '0.2466'), ('FAM195A', '0.2257'), ('RPUSD1', '0.3648'), ('NUBP2', '0.201'), ('CTD-3195I5.1', '1.3857'), ('CISD3', '0.222'), ('ICT1', '0.2142'), ('C17orf89', '0.201'), ('MRPL12', '0.2404'), ('RAC3', '0.2109'), ('GPI', '0.2157'), ('C19orf47', '0.7966'), ('TNNT1', '0.2083'), ('EPN1', '0.2983'), ('UBE2M', '0.307'), ('C22orf39', '0.2144'), ('MIF', '0.2165'), ('TOM1', '0.9632'), ('AL133493.2', '0.5076')]
 the unique 29  elements in  p-sgIRF1-2
@@ -196,421 +240,9 @@ the shared 6  elements:
 [('CHCHD5', '0.2252', '0.2205'), ('UBXN7', '0.5075', '0.4979'), ('CXCL14', '0.3529', '0.4792'), ('HIST1H2BJ', '0.2926', '0.2395'), ('MYBL2', '0.2231', '0.2878'), ('CRKL', '0.2444', '0.2462')] 
 
 
-comparing up regulation of p-sgE2F4-6  and  p-sgE2F4-7 : 
-the unqiue 31  elements in  p-sgE2F4-6
-[('SMIM1', '0.2521'), ('SRM', '0.2198'), ('MRPL33', '0.2678'), ('MRPL53', '0.3144'), ('GYPC', '0.2289'), ('NBEAL1', '0.2329'), ('RPL29', '0.2061'), ('CXCL14', '0.3883'), ('HIST1H1C', '0.2289'), ('HIST1H2AC', '0.2115'), ('ORC3', '0.3838'), ('BRI3', '0.2716'), ('JPX', '0.2828'), ('RPL39', '0.2028'), ('RP11-10A14.5', '0.5225'), ('EIF4EBP1', '0.2105'), ('FUOM', '0.235'), ('RPS6KB2', '0.2852'), ('PHB2', '0.2159'), ('PRR13', '0.2329'), ('CS', '0.247'), ('PSMD9', '0.217'), ('MSRB1', '0.2475'), ('FLOT2', '0.2844'), ('CISD3', '0.2279'), ('C17orf89', '0.2067'), ('MRPL12', '0.2156'), ('DLGAP4', '0.3651'), ('ICAM3', '0.2322'), ('EIF3L', '0.2133'), ('ATP5L2', '0.2075')]
-the unique 14  elements in  p-sgE2F4-7
-[('CENPA', '0.2285'), ('ARHGAP18', '0.2842'), ('ZNF277', '0.2521'), ('RBM3', '0.2113'), ('IGBP1', '0.2396'), ('SIRT1', '0.6491'), ('MRPL43', '0.2413'), ('NUDT21', '0.2378'), ('MT2A', '1.0465'), ('TOP2A', '0.2231'), ('HOXB2', '0.2576'), ('MYBL2', '0.2387'), ('CRKL', '0.2794'), ('MPST', '0.2069')]
-the shared 5  elements: 
-[('AC016723.4', '0.2306', '0.2089'), ('LINC01033', '0.2808', '0.2629'), ('HIST1H2BC', '0.2881', '0.3147'), ('HIST1H2BJ', '0.3653', '0.2658'), ('PCBD1', '0.2426', '0.2132')] 
-
-
-comparing up regulation of p-sgELF1-2  and  p-sgELF1-5 : 
-the unqiue 16  elements in  p-sgELF1-2
-[('CTNNBIP1', '0.2174'), ('PGD', '0.2273'), ('SMYD3', '0.2034'), ('MRPL53', '0.3085'), ('TMSB10', '0.2357'), ('NBEAL1', '0.2129'), ('TMSB4X', '0.2298'), ('FTSJ1', '0.3156'), ('C8orf82', '0.2973'), ('TMEM141', '0.2165'), ('PCBD1', '0.214'), ('C12orf57', '0.2241'), ('RP11-433M22.2', '4.427'), ('MYBL2', '0.2502'), ('SH3BGR', '0.3323'), ('SPATC1L', '0.218')]
-the unique 14  elements in  p-sgELF1-5
-[('NUDT1', '0.2044'), ('SOSTDC1', '0.5039'), ('SLC25A6', '0.2028'), ('FXN', '0.2476'), ('PHF19', '0.2055'), ('FIBP', '0.3254'), ('RPS6KB2', '0.2008'), ('PRR13', '0.216'), ('CDKN3', '0.2782'), ('GCHFR', '0.2223'), ('TMEM219', '0.2046'), ('MRPL12', '0.2248'), ('ECSIT', '0.257'), ('RFXANK', '0.202')]
-the shared 9  elements: 
-[('CXCL14', '0.3709', '0.3641'), ('HIST1H2BJ', '0.2897', '0.3389'), ('LST1', '1.1307', '0.9185'), ('JPX', '0.243', '0.2801'), ('FUOM', '0.2692', '0.2354'), ('PHB2', '0.2114', '0.235'), ('PSME2', '0.2071', '0.2435'), ('PGLS', '0.2266', '0.237'), ('TYROBP', '0.3312', '0.353')] 
-
-
-comparing up regulation of p-sgELF1-2  and  p-sgELF1-1 : 
-the unqiue 19  elements in  p-sgELF1-2
-[('CTNNBIP1', '0.2174'), ('PGD', '0.2273'), ('SMYD3', '0.2034'), ('MRPL53', '0.3085'), ('LST1', '1.1307'), ('TMSB4X', '0.2298'), ('FTSJ1', '0.3156'), ('JPX', '0.243'), ('C8orf82', '0.2973'), ('TMEM141', '0.2165'), ('PCBD1', '0.214'), ('FUOM', '0.2692'), ('PHB2', '0.2114'), ('RP11-433M22.2', '4.427'), ('MYBL2', '0.2502'), ('PGLS', '0.2266'), ('TYROBP', '0.3312'), ('SH3BGR', '0.3323'), ('SPATC1L', '0.218')]
-the unique 20  elements in  p-sgELF1-1
-[('SRM', '0.2042'), ('CENPA', '0.254'), ('CHCHD5', '0.2006'), ('C3orf38', '0.6252'), ('SLC25A6', '0.2031'), ('SUSD3', '0.392'), ('COQ4', '0.2158'), ('RASGEF1A', '0.4818'), ('PRR13', '0.2061'), ('SOCS2', '0.2327'), ('ACSM3', '0.2059'), ('GINS2', '0.2169'), ('CDT1', '0.2391'), ('FLOT2', '0.2877'), ('SKA2', '0.2507'), ('MRPL12', '0.2043'), ('MED29', '0.3901'), ('ATF5', '0.2851'), ('BCL2L13', '0.2809'), ('LGALS1', '0.2004')]
-the shared 6  elements: 
-[('TMSB10', '0.2357', '0.2159'), ('NBEAL1', '0.2129', '0.2121'), ('CXCL14', '0.3709', '0.4003'), ('HIST1H2BJ', '0.2897', '0.2967'), ('C12orf57', '0.2241', '0.2084'), ('PSME2', '0.2071', '0.2043')] 
-
-
-comparing up regulation of p-sgELF1-2  and  p-sgELF1-4 : 
-the unqiue 18  elements in  p-sgELF1-2
-[('CTNNBIP1', '0.2174'), ('PGD', '0.2273'), ('SMYD3', '0.2034'), ('MRPL53', '0.3085'), ('TMSB10', '0.2357'), ('NBEAL1', '0.2129'), ('LST1', '1.1307'), ('FTSJ1', '0.3156'), ('C8orf82', '0.2973'), ('TMEM141', '0.2165'), ('PCBD1', '0.214'), ('C12orf57', '0.2241'), ('PHB2', '0.2114'), ('RP11-433M22.2', '4.427'), ('PGLS', '0.2266'), ('TYROBP', '0.3312'), ('SH3BGR', '0.3323'), ('SPATC1L', '0.218')]
-the unique 20  elements in  p-sgELF1-4
-[('SRM', '0.2007'), ('RPL39L', '0.2666'), ('CDKN2AIPNL', '0.2988'), ('SERPINB6', '0.2025'), ('BRI3', '0.2623'), ('FIS1', '0.2005'), ('COQ4', '0.2209'), ('SNCG', '0.2546'), ('TIAL1', '0.2511'), ('SPI1', '0.2775'), ('PPP1R14B', '0.2456'), ('MYL6B', '0.204'), ('SKA2', '0.2466'), ('MRPL12', '0.2082'), ('RAC3', '0.2165'), ('TICAM1', '0.7552'), ('CAPNS1', '0.2383'), ('PPP1R14A', '0.2247'), ('PKNOX1', '0.7557'), ('AL133493.2', '0.4359')]
-the shared 7  elements: 
-[('CXCL14', '0.3709', '0.4308'), ('HIST1H2BJ', '0.2897', '0.2608'), ('TMSB4X', '0.2298', '0.2155'), ('JPX', '0.243', '0.3379'), ('FUOM', '0.2692', '0.2676'), ('PSME2', '0.2071', '0.2235'), ('MYBL2', '0.2502', '0.2512')] 
-
-
-comparing up regulation of p-sgELF1-5  and  p-sgELF1-1 : 
-the unqiue 17  elements in  p-sgELF1-5
-[('LST1', '0.9185'), ('NUDT1', '0.2044'), ('SOSTDC1', '0.5039'), ('JPX', '0.2801'), ('FXN', '0.2476'), ('PHF19', '0.2055'), ('FUOM', '0.2354'), ('FIBP', '0.3254'), ('RPS6KB2', '0.2008'), ('PHB2', '0.235'), ('CDKN3', '0.2782'), ('GCHFR', '0.2223'), ('TMEM219', '0.2046'), ('ECSIT', '0.257'), ('PGLS', '0.237'), ('RFXANK', '0.202'), ('TYROBP', '0.353')]
-the unique 20  elements in  p-sgELF1-1
-[('SRM', '0.2042'), ('CENPA', '0.254'), ('TMSB10', '0.2159'), ('CHCHD5', '0.2006'), ('NBEAL1', '0.2121'), ('C3orf38', '0.6252'), ('SUSD3', '0.392'), ('COQ4', '0.2158'), ('RASGEF1A', '0.4818'), ('C12orf57', '0.2084'), ('SOCS2', '0.2327'), ('ACSM3', '0.2059'), ('GINS2', '0.2169'), ('CDT1', '0.2391'), ('FLOT2', '0.2877'), ('SKA2', '0.2507'), ('MED29', '0.3901'), ('ATF5', '0.2851'), ('BCL2L13', '0.2809'), ('LGALS1', '0.2004')]
-the shared 6  elements: 
-[('CXCL14', '0.3641', '0.4003'), ('HIST1H2BJ', '0.3389', '0.2967'), ('SLC25A6', '0.2028', '0.2031'), ('PRR13', '0.216', '0.2061'), ('PSME2', '0.2435', '0.2043'), ('MRPL12', '0.2248', '0.2043')] 
-
-
-comparing up regulation of p-sgELF1-5  and  p-sgELF1-4 : 
-the unqiue 17  elements in  p-sgELF1-5
-[('LST1', '0.9185'), ('NUDT1', '0.2044'), ('SOSTDC1', '0.5039'), ('SLC25A6', '0.2028'), ('FXN', '0.2476'), ('PHF19', '0.2055'), ('FIBP', '0.3254'), ('RPS6KB2', '0.2008'), ('PHB2', '0.235'), ('PRR13', '0.216'), ('CDKN3', '0.2782'), ('GCHFR', '0.2223'), ('TMEM219', '0.2046'), ('ECSIT', '0.257'), ('PGLS', '0.237'), ('RFXANK', '0.202'), ('TYROBP', '0.353')]
-the unique 21  elements in  p-sgELF1-4
-[('SRM', '0.2007'), ('RPL39L', '0.2666'), ('CDKN2AIPNL', '0.2988'), ('SERPINB6', '0.2025'), ('BRI3', '0.2623'), ('FIS1', '0.2005'), ('TMSB4X', '0.2155'), ('COQ4', '0.2209'), ('SNCG', '0.2546'), ('TIAL1', '0.2511'), ('SPI1', '0.2775'), ('PPP1R14B', '0.2456'), ('MYL6B', '0.204'), ('SKA2', '0.2466'), ('RAC3', '0.2165'), ('MYBL2', '0.2512'), ('TICAM1', '0.7552'), ('CAPNS1', '0.2383'), ('PPP1R14A', '0.2247'), ('PKNOX1', '0.7557'), ('AL133493.2', '0.4359')]
-the shared 6  elements: 
-[('CXCL14', '0.3641', '0.4308'), ('HIST1H2BJ', '0.3389', '0.2608'), ('JPX', '0.2801', '0.3379'), ('FUOM', '0.2354', '0.2676'), ('PSME2', '0.2435', '0.2235'), ('MRPL12', '0.2248', '0.2082')] 
-
-
-comparing up regulation of p-sgELF1-1  and  p-sgELF1-4 : 
-the unqiue 19  elements in  p-sgELF1-1
-[('CENPA', '0.254'), ('TMSB10', '0.2159'), ('CHCHD5', '0.2006'), ('NBEAL1', '0.2121'), ('C3orf38', '0.6252'), ('SLC25A6', '0.2031'), ('SUSD3', '0.392'), ('RASGEF1A', '0.4818'), ('C12orf57', '0.2084'), ('PRR13', '0.2061'), ('SOCS2', '0.2327'), ('ACSM3', '0.2059'), ('GINS2', '0.2169'), ('CDT1', '0.2391'), ('FLOT2', '0.2877'), ('MED29', '0.3901'), ('ATF5', '0.2851'), ('BCL2L13', '0.2809'), ('LGALS1', '0.2004')]
-the unique 20  elements in  p-sgELF1-4
-[('RPL39L', '0.2666'), ('CDKN2AIPNL', '0.2988'), ('SERPINB6', '0.2025'), ('BRI3', '0.2623'), ('FIS1', '0.2005'), ('TMSB4X', '0.2155'), ('JPX', '0.3379'), ('SNCG', '0.2546'), ('TIAL1', '0.2511'), ('FUOM', '0.2676'), ('SPI1', '0.2775'), ('PPP1R14B', '0.2456'), ('MYL6B', '0.204'), ('RAC3', '0.2165'), ('MYBL2', '0.2512'), ('TICAM1', '0.7552'), ('CAPNS1', '0.2383'), ('PPP1R14A', '0.2247'), ('PKNOX1', '0.7557'), ('AL133493.2', '0.4359')]
-the shared 7  elements: 
-[('SRM', '0.2042', '0.2007'), ('CXCL14', '0.4003', '0.4308'), ('HIST1H2BJ', '0.2967', '0.2608'), ('COQ4', '0.2158', '0.2209'), ('PSME2', '0.2043', '0.2235'), ('SKA2', '0.2507', '0.2466'), ('MRPL12', '0.2043', '0.2082')] 
-
-
-comparing up regulation of p-sgCREB1-5  and  p-sgCREB1-4 : 
-the unqiue 24  elements in  p-sgCREB1-5
-[('SRM', '0.2132'), ('CENPA', '0.2131'), ('NBEAL1', '0.2094'), ('POMGNT2', '0.5577'), ('CXCL14', '0.39'), ('RBM3', '0.2214'), ('JPX', '0.2963'), ('RPL39', '0.2038'), ('YWHAZ', '0.2215'), ('SIRT1', '0.6726'), ('PPP1R14B', '0.2058'), ('TMEM106C', '0.3111'), ('CRADD', '0.2709'), ('FAM101B', '0.3904'), ('COA3', '0.2211'), ('CBX1', '0.2689'), ('MRPL12', '0.2083'), ('ICAM3', '0.2353'), ('PRR24', '0.2491'), ('NR1H2', '0.4141'), ('C19orf81', '0.2227'), ('EPN1', '0.3215'), ('SLC27A5', '0.2162'), ('UBE2M', '0.2914')]
-the unique 24  elements in  p-sgCREB1-4
-[('RP11-558F24.4', '0.2927'), ('PGD', '0.217'), ('POLE4', '0.2059'), ('LIMS1', '0.2164'), ('HIST1H4C', '0.206'), ('CCDC167', '0.2221'), ('MPLKIP', '0.2761'), ('PRKAR2B', '0.2854'), ('AC073236.3', '0.2029'), ('MAGED1', '0.8921'), ('RP11-10A14.5', '0.4185'), ('HEMGN', '0.3232'), ('CCDC34', '0.216'), ('MYL6B', '0.2359'), ('PSME1', '0.2821'), ('PSME2', '0.2387'), ('SKA2', '0.2961'), ('IER3IP1-1', '0.2075'), ('MMP24-AS1', '0.2413'), ('PPP4R1L', '1.015'), ('RPSAP58', '0.21'), ('ZNF607', '0.531'), ('LENG8', '0.297'), ('SPATC1L', '0.2152')]
-the shared 4  elements: 
-[('LINC01033', '0.2516', '0.2471'), ('HIST1H2BJ', '0.2912', '0.2644'), ('RP11-433M22.2', '3.6098', '5.2132'), ('MYBL2', '0.2591', '0.276')] 
-
-
-comparing up regulation of p-sgCREB1-5  and  p-sgCREB1-2 : 
-the unqiue 17  elements in  p-sgCREB1-5
-[('CENPA', '0.2131'), ('NBEAL1', '0.2094'), ('POMGNT2', '0.5577'), ('RBM3', '0.2214'), ('RPL39', '0.2038'), ('YWHAZ', '0.2215'), ('SIRT1', '0.6726'), ('TMEM106C', '0.3111'), ('CRADD', '0.2709'), ('FAM101B', '0.3904'), ('COA3', '0.2211'), ('CBX1', '0.2689'), ('MRPL12', '0.2083'), ('MYBL2', '0.2591'), ('ICAM3', '0.2353'), ('C19orf81', '0.2227'), ('SLC27A5', '0.2162')]
-the unique 18  elements in  p-sgCREB1-2
-[('MIIP', '0.2119'), ('FGGY', '0.7539'), ('CDV3', '0.2932'), ('NHP2', '0.2112'), ('BRI3', '0.2541'), ('COQ4', '0.212'), ('TMEM141', '0.2204'), ('CREM', '0.2874'), ('PCBD1', '0.2059'), ('FUOM', '0.233'), ('TAF10', '0.2476'), ('CDKN3', '0.2808'), ('TMEM219', '0.2013'), ('HOXB2', '0.2487'), ('SKA2', '0.2602'), ('PGLS', '0.2197'), ('RPSAP58', '0.2193'), ('POLR3H', '0.2578')]
-the shared 11  elements: 
-[('SRM', '0.2132', '0.2385'), ('LINC01033', '0.2516', '0.2918'), ('CXCL14', '0.39', '0.358'), ('HIST1H2BJ', '0.2912', '0.2623'), ('JPX', '0.2963', '0.2703'), ('PPP1R14B', '0.2058', '0.2459'), ('RP11-433M22.2', '3.6098', '2.5502'), ('PRR24', '0.2491', '0.3268'), ('NR1H2', '0.4141', '0.3764'), ('EPN1', '0.3215', '0.2919'), ('UBE2M', '0.2914', '0.2654')] 
-
-
-comparing up regulation of p-sgCREB1-4  and  p-sgCREB1-2 : 
-the unqiue 23  elements in  p-sgCREB1-4
-[('RP11-558F24.4', '0.2927'), ('PGD', '0.217'), ('POLE4', '0.2059'), ('LIMS1', '0.2164'), ('HIST1H4C', '0.206'), ('CCDC167', '0.2221'), ('MPLKIP', '0.2761'), ('PRKAR2B', '0.2854'), ('AC073236.3', '0.2029'), ('MAGED1', '0.8921'), ('RP11-10A14.5', '0.4185'), ('HEMGN', '0.3232'), ('CCDC34', '0.216'), ('MYL6B', '0.2359'), ('PSME1', '0.2821'), ('PSME2', '0.2387'), ('IER3IP1-1', '0.2075'), ('MMP24-AS1', '0.2413'), ('MYBL2', '0.276'), ('PPP4R1L', '1.015'), ('ZNF607', '0.531'), ('LENG8', '0.297'), ('SPATC1L', '0.2152')]
-the unique 24  elements in  p-sgCREB1-2
-[('SRM', '0.2385'), ('MIIP', '0.2119'), ('FGGY', '0.7539'), ('CDV3', '0.2932'), ('CXCL14', '0.358'), ('NHP2', '0.2112'), ('BRI3', '0.2541'), ('JPX', '0.2703'), ('COQ4', '0.212'), ('TMEM141', '0.2204'), ('CREM', '0.2874'), ('PCBD1', '0.2059'), ('FUOM', '0.233'), ('TAF10', '0.2476'), ('PPP1R14B', '0.2459'), ('CDKN3', '0.2808'), ('TMEM219', '0.2013'), ('HOXB2', '0.2487'), ('PGLS', '0.2197'), ('PRR24', '0.3268'), ('NR1H2', '0.3764'), ('EPN1', '0.2919'), ('UBE2M', '0.2654'), ('POLR3H', '0.2578')]
-the shared 5  elements: 
-[('LINC01033', '0.2471', '0.2918'), ('HIST1H2BJ', '0.2644', '0.2623'), ('RP11-433M22.2', '5.2132', '2.5502'), ('SKA2', '0.2961', '0.2602'), ('RPSAP58', '0.21', '0.2193')] 
-
-
-comparing up regulation of p-sgEGR1-4  and  p-sgEGR1-2 : 
-the unqiue 28  elements in  p-sgEGR1-4
-[('HES4', '0.2284'), ('STRADB', '0.5176'), ('HIST1H2BC', '0.2616'), ('JPX', '0.3201'), ('HMGB3', '0.2183'), ('NAA10', '0.2003'), ('COQ4', '0.2679'), ('TAF10', '0.2402'), ('C11orf24', '0.2523'), ('LAMTOR1', '0.2022'), ('PHB2', '0.2314'), ('SMAGP', '0.2327'), ('MRP63', '0.2112'), ('NME4', '0.2155'), ('STUB1', '0.2061'), ('HN1L', '0.272'), ('NTHL1', '0.2416'), ('E2F4', '0.2423'), ('GCSH', '0.6186'), ('GINS2', '0.2427'), ('COA3', '0.2439'), ('MRPL10', '0.2387'), ('MRPL12', '0.2399'), ('TYMS', '0.2382'), ('PRR24', '0.263'), ('PRPF31', '0.2422'), ('RRP7A', '0.2872'), ('TYMP', '0.3986')]
-the unique 21  elements in  p-sgEGR1-2
-[('PGD', '0.2045'), ('FAM89A', '0.325'), ('PTRHD1', '0.2108'), ('GTF3C2', '0.4615'), ('MRPL53', '0.2875'), ('GCFC2', '0.4752'), ('OXNAD1', '0.4005'), ('RAB28', '0.4844'), ('LINC01033', '0.2474'), ('HIST1H4C', '0.2084'), ('MPLKIP', '0.2179'), ('BRI3', '0.2839'), ('C7orf73', '0.2012'), ('FUOM', '0.2943'), ('GCHFR', '0.2482'), ('HDDC3', '0.2626'), ('RPUSD1', '0.4062'), ('TMEM219', '0.2047'), ('MYBL2', '0.2784'), ('CTD-2369P2.8', '1.2241'), ('TYROBP', '0.3504')]
-the shared 8  elements: 
-[('SRM', '0.2211', '0.2086'), ('CENPA', '0.2165', '0.2323'), ('POLR2D', '0.3174', '0.2689'), ('CXCL14', '0.3914', '0.3519'), ('HIST1H2BJ', '0.3459', '0.2542'), ('FAM58A', '0.3667', '0.297'), ('PRR13', '0.2608', '0.2223'), ('PSME2', '0.2392', '0.2875')] 
-
-
-comparing up regulation of p-sgEGR1-4  and  p-sgEGR1-3 : 
-the unqiue 31  elements in  p-sgEGR1-4
-[('HES4', '0.2284'), ('SRM', '0.2211'), ('CENPA', '0.2165'), ('POLR2D', '0.3174'), ('STRADB', '0.5176'), ('HIST1H2BC', '0.2616'), ('HMGB3', '0.2183'), ('FAM58A', '0.3667'), ('NAA10', '0.2003'), ('COQ4', '0.2679'), ('C11orf24', '0.2523'), ('LAMTOR1', '0.2022'), ('PHB2', '0.2314'), ('SMAGP', '0.2327'), ('PRR13', '0.2608'), ('MRP63', '0.2112'), ('NME4', '0.2155'), ('STUB1', '0.2061'), ('HN1L', '0.272'), ('NTHL1', '0.2416'), ('E2F4', '0.2423'), ('GCSH', '0.6186'), ('GINS2', '0.2427'), ('COA3', '0.2439'), ('MRPL10', '0.2387'), ('MRPL12', '0.2399'), ('TYMS', '0.2382'), ('PRR24', '0.263'), ('PRPF31', '0.2422'), ('RRP7A', '0.2872'), ('TYMP', '0.3986')]
-the unique 18  elements in  p-sgEGR1-3
-[('FAM89A', '0.3238'), ('STARD7', '0.2613'), ('NIT2', '0.5395'), ('RAB28', '0.5134'), ('AP3S1', '0.238'), ('RBM3', '0.2001'), ('MAGED1', '0.7589'), ('C8orf88', '0.3069'), ('TEX30', '0.2349'), ('CDKN3', '0.2863'), ('TRMT61A', '0.4478'), ('UBBP4', '0.2335'), ('SKA2', '0.3067'), ('ACTN4', '0.2066'), ('GMFG', '0.2505'), ('EPN1', '0.2808'), ('MTFP1', '0.2669'), ('LGALS1', '0.2488')]
-the shared 5  elements: 
-[('CXCL14', '0.3914', '0.3878'), ('HIST1H2BJ', '0.3459', '0.2978'), ('JPX', '0.3201', '0.299'), ('TAF10', '0.2402', '0.2208'), ('PSME2', '0.2392', '0.2623')] 
-
-
-comparing up regulation of p-sgEGR1-2  and  p-sgEGR1-3 : 
-the unqiue 24  elements in  p-sgEGR1-2
-[('PGD', '0.2045'), ('SRM', '0.2086'), ('PTRHD1', '0.2108'), ('CENPA', '0.2323'), ('GTF3C2', '0.4615'), ('MRPL53', '0.2875'), ('GCFC2', '0.4752'), ('POLR2D', '0.2689'), ('OXNAD1', '0.4005'), ('LINC01033', '0.2474'), ('HIST1H4C', '0.2084'), ('MPLKIP', '0.2179'), ('BRI3', '0.2839'), ('C7orf73', '0.2012'), ('FAM58A', '0.297'), ('FUOM', '0.2943'), ('PRR13', '0.2223'), ('GCHFR', '0.2482'), ('HDDC3', '0.2626'), ('RPUSD1', '0.4062'), ('TMEM219', '0.2047'), ('MYBL2', '0.2784'), ('CTD-2369P2.8', '1.2241'), ('TYROBP', '0.3504')]
-the unique 18  elements in  p-sgEGR1-3
-[('STARD7', '0.2613'), ('NIT2', '0.5395'), ('AP3S1', '0.238'), ('RBM3', '0.2001'), ('MAGED1', '0.7589'), ('JPX', '0.299'), ('C8orf88', '0.3069'), ('TAF10', '0.2208'), ('TEX30', '0.2349'), ('CDKN3', '0.2863'), ('TRMT61A', '0.4478'), ('UBBP4', '0.2335'), ('SKA2', '0.3067'), ('ACTN4', '0.2066'), ('GMFG', '0.2505'), ('EPN1', '0.2808'), ('MTFP1', '0.2669'), ('LGALS1', '0.2488')]
-the shared 5  elements: 
-[('FAM89A', '0.325', '0.3238'), ('RAB28', '0.4844', '0.5134'), ('CXCL14', '0.3519', '0.3878'), ('HIST1H2BJ', '0.2542', '0.2978'), ('PSME2', '0.2875', '0.2623')] 
-
-
-comparing up regulation of p-sgELK1-6  and  p-sgELK1-7 : 
-the unqiue 22  elements in  p-sgELK1-6
-[('HES4', '0.2201'), ('SRM', '0.2089'), ('LYPLA2', '0.2615'), ('DUSP12', '0.3191'), ('PTRHD1', '0.2284'), ('POLR2D', '0.272'), ('AC018890.6', '1.0512'), ('NBEAL1', '0.2113'), ('H1FX', '0.2924'), ('ANAPC13', '0.2004'), ('LINC01033', '0.2578'), ('HIST1H4C', '0.2078'), ('HIST1H2BJ', '0.2704'), ('JHDM1D-AS1', '0.8659'), ('MAGED1', '0.6621'), ('PCBD1', '0.2011'), ('PPP1R14B', '0.2012'), ('MCRS1', '0.2712'), ('GCHFR', '0.2267'), ('RP11-433M22.2', '4.2354'), ('MRPL12', '0.2065'), ('C22orf39', '0.2082')]
-the unique 16  elements in  p-sgELK1-7
-[('R3HDM1', '0.3697'), ('MEF2C', '0.23'), ('DCP2', '0.2665'), ('CXCL14', '0.3293'), ('GNA12', '0.6274'), ('AP1S2', '0.2872'), ('TAF10', '0.2485'), ('PHB2', '0.2181'), ('LIMA1', '0.5188'), ('SOCS2', '0.2542'), ('CRADD', '0.2946'), ('PSME2', '0.2367'), ('RPUSD1', '0.3787'), ('CTD-2576D5.4', '0.316'), ('GINS2', '0.2347'), ('TOP2A', '0.2354')]
-the shared 5  elements: 
-[('SOSTDC1', '0.4539', '0.6008'), ('RBM3', '0.2097', '0.2127'), ('JPX', '0.3064', '0.2454'), ('MYL6B', '0.2047', '0.2071'), ('PGLS', '0.2475', '0.2215')] 
-
-
-comparing up regulation of p-sgELK1-6  and  p-sgELK1-1 : 
-the unqiue 23  elements in  p-sgELK1-6
-[('HES4', '0.2201'), ('SRM', '0.2089'), ('LYPLA2', '0.2615'), ('DUSP12', '0.3191'), ('PTRHD1', '0.2284'), ('POLR2D', '0.272'), ('AC018890.6', '1.0512'), ('NBEAL1', '0.2113'), ('ANAPC13', '0.2004'), ('LINC01033', '0.2578'), ('HIST1H4C', '0.2078'), ('HIST1H2BJ', '0.2704'), ('SOSTDC1', '0.4539'), ('JHDM1D-AS1', '0.8659'), ('RBM3', '0.2097'), ('MAGED1', '0.6621'), ('PCBD1', '0.2011'), ('PPP1R14B', '0.2012'), ('MCRS1', '0.2712'), ('GCHFR', '0.2267'), ('MRPL12', '0.2065'), ('PGLS', '0.2475'), ('C22orf39', '0.2082')]
-the unique 21  elements in  p-sgELK1-1
-[('ACOT7', '0.2928'), ('RP11-558F24.4', '0.3168'), ('RAVER2', '1.4097'), ('ZC3H6', '0.5497'), ('COX17', '0.2183'), ('SCOC', '0.3556'), ('C5orf51', '0.6064'), ('CXCL14', '0.4104'), ('ARHGAP18', '0.2839'), ('RPL39', '0.211'), ('RP11-10A14.5', '0.4119'), ('EIF4EBP1', '0.2016'), ('FIBP', '0.2479'), ('POLD4', '0.2706'), ('BCDIN3D', '1.0889'), ('TEX30', '0.2225'), ('NUDT14', '0.4158'), ('GFER', '0.2381'), ('MLST8', '0.2641'), ('HOXB2', '0.2749'), ('CRLS1', '0.2841')]
-the shared 4  elements: 
-[('H1FX', '0.2924', '0.2989'), ('JPX', '0.3064', '0.2764'), ('MYL6B', '0.2047', '0.2146'), ('RP11-433M22.2', '4.2354', '2.1517')] 
-
-
-comparing up regulation of p-sgELK1-7  and  p-sgELK1-1 : 
-the unqiue 18  elements in  p-sgELK1-7
-[('R3HDM1', '0.3697'), ('MEF2C', '0.23'), ('DCP2', '0.2665'), ('GNA12', '0.6274'), ('SOSTDC1', '0.6008'), ('AP1S2', '0.2872'), ('RBM3', '0.2127'), ('TAF10', '0.2485'), ('PHB2', '0.2181'), ('LIMA1', '0.5188'), ('SOCS2', '0.2542'), ('CRADD', '0.2946'), ('PSME2', '0.2367'), ('RPUSD1', '0.3787'), ('CTD-2576D5.4', '0.316'), ('GINS2', '0.2347'), ('TOP2A', '0.2354'), ('PGLS', '0.2215')]
-the unique 22  elements in  p-sgELK1-1
-[('ACOT7', '0.2928'), ('RP11-558F24.4', '0.3168'), ('RAVER2', '1.4097'), ('ZC3H6', '0.5497'), ('COX17', '0.2183'), ('H1FX', '0.2989'), ('SCOC', '0.3556'), ('C5orf51', '0.6064'), ('ARHGAP18', '0.2839'), ('RPL39', '0.211'), ('RP11-10A14.5', '0.4119'), ('EIF4EBP1', '0.2016'), ('FIBP', '0.2479'), ('POLD4', '0.2706'), ('BCDIN3D', '1.0889'), ('TEX30', '0.2225'), ('NUDT14', '0.4158'), ('GFER', '0.2381'), ('MLST8', '0.2641'), ('RP11-433M22.2', '2.1517'), ('HOXB2', '0.2749'), ('CRLS1', '0.2841')]
-the shared 3  elements: 
-[('CXCL14', '0.3293', '0.4104'), ('JPX', '0.2454', '0.2764'), ('MYL6B', '0.2071', '0.2146')] 
-
-
-comparing up regulation of p-sgNR2C2-5  and  p-sgNR2C2-3 : 
-the unqiue 17  elements in  p-sgNR2C2-5
-[('UBE2E1', '0.2653'), ('COX17', '0.3784'), ('ATP5I', '0.2933'), ('LST1', '0.9087'), ('BRI3', '0.2246'), ('CSAG1', '0.2138'), ('RPL35', '0.227'), ('PCBD1', '0.2323'), ('POLD4', '0.2393'), ('ANAPC15', '0.4084'), ('CDKN3', '0.237'), ('SNW1', '0.2731'), ('TMEM219', '0.2016'), ('CTD-3195I5.1', '1.1085'), ('MRPL10', '0.2619'), ('TPGS2', '0.2021'), ('SNRPD3', '0.2074')]
-the unique 26  elements in  p-sgNR2C2-3
-[('PGD', '0.2595'), ('RPL29', '0.2028'), ('MSL2', '0.9201'), ('CTBP1', '0.3789'), ('LINC01033', '0.2977'), ('CXCL14', '0.3955'), ('HIST1H4C', '0.223'), ('HIST1H4H', '0.3295'), ('MPLKIP', '0.237'), ('ARHGAP6', '0.2938'), ('JPX', '0.2747'), ('FPGS', '0.4164'), ('RASGEF1A', '0.4788'), ('PHB2', '0.2267'), ('RPL41', '0.2198'), ('FAM96A', '0.2044'), ('RPUSD1', '0.425'), ('SF3B3', '0.2787'), ('ACLY', '0.3044'), ('PTRF', '0.2186'), ('SMAD2', '0.5669'), ('RPL17', '0.2156'), ('ZNF83', '0.4748'), ('ZNF787', '0.4855'), ('MPST', '0.2098'), ('EIF3L', '0.2143')]
-the shared 8  elements: 
-[('TMSB10', '0.2333', '0.2407'), ('POLR2D', '0.2763', '0.3385'), ('NBEAL1', '0.2254', '0.2159'), ('H1FX', '0.3358', '0.3764'), ('ERGIC1', '0.4008', '0.3627'), ('HIST1H2BJ', '0.2147', '0.2888'), ('SLC25A6', '0.206', '0.2311'), ('PGLS', '0.2129', '0.2148')] 
-
-
-comparing up regulation of p-sgNR2C2-5  and  p-sgNR2C2-2 : 
-the unqiue 20  elements in  p-sgNR2C2-5
-[('TMSB10', '0.2333'), ('POLR2D', '0.2763'), ('UBE2E1', '0.2653'), ('H1FX', '0.3358'), ('ATP5I', '0.2933'), ('ERGIC1', '0.4008'), ('HIST1H2BJ', '0.2147'), ('LST1', '0.9087'), ('BRI3', '0.2246'), ('CSAG1', '0.2138'), ('RPL35', '0.227'), ('POLD4', '0.2393'), ('ANAPC15', '0.4084'), ('CDKN3', '0.237'), ('SNW1', '0.2731'), ('TMEM219', '0.2016'), ('MRPL10', '0.2619'), ('TPGS2', '0.2021'), ('PGLS', '0.2129'), ('SNRPD3', '0.2074')]
-the unique 40  elements in  p-sgNR2C2-2
-[('KIF2C', '0.3614'), ('GATAD2B', '0.5926'), ('ITGB1BP1', '0.2015'), ('MRPL53', '0.4542'), ('R3HDM1', '0.5457'), ('CCDC12', '0.2311'), ('CCDC112', '0.6198'), ('CXCL14', '0.6181'), ('HMMR', '0.4909'), ('ZFP62', '0.7581'), ('DFNA5', '0.6028'), ('RP13-57D9.3', '0.4293'), ('JPX', '0.3415'), ('EIF4EBP1', '0.2537'), ('SUSD3', '0.5028'), ('MRPL23', '0.2445'), ('TAF10', '0.3381'), ('SVIP', '0.2777'), ('RAP1B', '0.2605'), ('TFDP1', '0.29'), ('DTWD1', '0.5058'), ('HDDC3', '0.3556'), ('NME4', '0.2096'), ('RPUSD1', '0.397'), ('GGA2', '0.5744'), ('CKLF', '0.2123'), ('GINS2', '0.2823'), ('CBFA2T3', '0.4012'), ('MRPL12', '0.228'), ('TYMS', '0.2288'), ('RPL17', '0.2199'), ('MYBL2', '0.2783'), ('POLR2E', '0.2036'), ('WIZ', '0.5601'), ('ZNF850', '1.2239'), ('BCL2L13', '0.2827'), ('C22orf39', '0.2097'), ('INPP5J', '0.7444'), ('EIF3L', '0.2513'), ('TTLL12', '0.3974')]
-the shared 5  elements: 
-[('NBEAL1', '0.2254', '0.2012'), ('COX17', '0.3784', '0.2715'), ('SLC25A6', '0.206', '0.2028'), ('PCBD1', '0.2323', '0.2224'), ('CTD-3195I5.1', '1.1085', '1.5068')] 
-
-
-comparing up regulation of p-sgNR2C2-3  and  p-sgNR2C2-2 : 
-the unqiue 27  elements in  p-sgNR2C2-3
-[('PGD', '0.2595'), ('TMSB10', '0.2407'), ('POLR2D', '0.3385'), ('RPL29', '0.2028'), ('H1FX', '0.3764'), ('MSL2', '0.9201'), ('CTBP1', '0.3789'), ('LINC01033', '0.2977'), ('ERGIC1', '0.3627'), ('HIST1H4C', '0.223'), ('HIST1H4H', '0.3295'), ('HIST1H2BJ', '0.2888'), ('MPLKIP', '0.237'), ('ARHGAP6', '0.2938'), ('FPGS', '0.4164'), ('RASGEF1A', '0.4788'), ('PHB2', '0.2267'), ('RPL41', '0.2198'), ('FAM96A', '0.2044'), ('SF3B3', '0.2787'), ('ACLY', '0.3044'), ('PTRF', '0.2186'), ('SMAD2', '0.5669'), ('PGLS', '0.2148'), ('ZNF83', '0.4748'), ('ZNF787', '0.4855'), ('MPST', '0.2098')]
-the unique 38  elements in  p-sgNR2C2-2
-[('KIF2C', '0.3614'), ('GATAD2B', '0.5926'), ('ITGB1BP1', '0.2015'), ('MRPL53', '0.4542'), ('R3HDM1', '0.5457'), ('CCDC12', '0.2311'), ('COX17', '0.2715'), ('CCDC112', '0.6198'), ('HMMR', '0.4909'), ('ZFP62', '0.7581'), ('DFNA5', '0.6028'), ('RP13-57D9.3', '0.4293'), ('EIF4EBP1', '0.2537'), ('SUSD3', '0.5028'), ('PCBD1', '0.2224'), ('MRPL23', '0.2445'), ('TAF10', '0.3381'), ('SVIP', '0.2777'), ('RAP1B', '0.2605'), ('TFDP1', '0.29'), ('DTWD1', '0.5058'), ('HDDC3', '0.3556'), ('NME4', '0.2096'), ('GGA2', '0.5744'), ('CKLF', '0.2123'), ('GINS2', '0.2823'), ('CBFA2T3', '0.4012'), ('CTD-3195I5.1', '1.5068'), ('MRPL12', '0.228'), ('TYMS', '0.2288'), ('MYBL2', '0.2783'), ('POLR2E', '0.2036'), ('WIZ', '0.5601'), ('ZNF850', '1.2239'), ('BCL2L13', '0.2827'), ('C22orf39', '0.2097'), ('INPP5J', '0.7444'), ('TTLL12', '0.3974')]
-the shared 7  elements: 
-[('NBEAL1', '0.2159', '0.2012'), ('CXCL14', '0.3955', '0.6181'), ('SLC25A6', '0.2311', '0.2028'), ('JPX', '0.2747', '0.3415'), ('RPUSD1', '0.425', '0.397'), ('RPL17', '0.2156', '0.2199'), ('EIF3L', '0.2143', '0.2513')] 
-
-
-comparing up regulation of p-sgGABPA-1  and  p-sgGABPA-9 : 
-the unqiue 12  elements in  p-sgGABPA-1
-[('SRM', '0.2045'), ('KIAA1522', '0.3882'), ('MRPL53', '0.3188'), ('KRIT1', '0.27'), ('BRI3', '0.243'), ('MAGED1', '0.837'), ('JPX', '0.2729'), ('RP11-10A14.5', '0.4063'), ('FPGS', '0.4121'), ('MED27', '0.5065'), ('SNW1', '0.2628'), ('MT1E', '1.8772')]
-the unique 94  elements in  p-sgGABPA-9
-[('PGD', '0.213'), ('C1orf123', '0.2654'), ('S100A1', '0.4175'), ('SLC50A1', '0.2515'), ('UFC1', '0.2051'), ('PTRHD1', '0.2163'), ('CENPA', '0.2942'), ('PRADC1', '0.2442'), ('SUCLG1', '0.2131'), ('CHMP3', '0.4079'), ('STRADB', '0.4864'), ('NBEAL1', '0.2841'), ('EEF1B2', '0.2231'), ('RPUSD3', '0.2111'), ('ELP6', '0.2453'), ('RAB28', '0.4557'), ('MND1', '0.2685'), ('ING2', '0.3237'), ('SLC25A4', '0.2283'), ('SKP2', '0.2791'), ('LINC01033', '0.2691'), ('LYRM7', '0.2164'), ('HIST1H4C', '0.2849'), ('GTF2H5', '0.2123'), ('SCIN', '0.2723'), ('MDH2', '0.2122'), ('SLC25A6', '0.2256'), ('RBM3', '0.262'), ('NAA10', '0.2197'), ('FUNDC2', '0.3506'), ('EIF4EBP1', '0.2095'), ('EEF1D', '0.2195'), ('RPL8', '0.2125'), ('RPL12', '0.2403'), ('RPL7A', '0.2013'), ('ATP5C1', '0.2005'), ('PPA1', '0.203'), ('PCBD1', '0.2132'), ('ANAPC16', '0.2098'), ('PDLIM1', '0.239'), ('SFXN4', '0.3254'), ('UROS', '0.3614'), ('FUOM', '0.2262'), ('MACROD1', '0.2428'), ('ARL2', '0.2231'), ('RNASEH2C', '0.2256'), ('POLD4', '0.2734'), ('ANAPC15', '0.432'), ('MRPL48', '0.2719'), ('PHB2', '0.2362'), ('PRR13', '0.2583'), ('ATP5G2', '0.2019'), ('HNRNPA1', '0.2229'), ('SPRYD4', '0.5114'), ('HAUS4', '0.2664'), ('PSME2', '0.2316'), ('RPL4', '0.214'), ('HDDC3', '0.317'), ('HBQ1', '0.2939'), ('RPS2', '0.2422'), ('MLST8', '0.2791'), ('ACSM3', '0.2234'), ('NOB1', '0.2284'), ('CDT1', '0.2145'), ('COX11', '0.296'), ('MRPL12', '0.2202'), ('C18orf56', '0.4468'), ('TPGS2', '0.2053'), ('RPL17', '0.2421'), ('RBCK1', '0.2686'), ('AHCY', '0.2977'), ('MMP24-AS1', '0.2565'), ('PPDPF', '0.2033'), ('POLR2E', '0.2177'), ('GAMT', '0.3372'), ('MATK', '0.3656'), ('ALKBH7', '0.2322'), ('PRDX2', '0.2278'), ('PGLS', '0.2811'), ('LSM4', '0.2931'), ('RPSAP58', '0.2211'), ('PPP1R14A', '0.2517'), ('ECH1', '0.2501'), ('APOC1', '0.2193'), ('ATF5', '0.2195'), ('NDUFA3', '0.2161'), ('ZNF581', '0.2963'), ('CHMP2A', '0.2631'), ('UBE2M', '0.2706'), ('DGCR6L', '0.2247'), ('EIF3L', '0.2182'), ('RPL3', '0.2204'), ('TYMP', '0.4339'), ('SPATC1L', '0.2493')]
-the shared 5  elements: 
-[('CXCL14', '0.4199', '0.5055'), ('HIST1H2BJ', '0.22', '0.3037'), ('PPP1R14B', '0.2338', '0.2166'), ('CDKN3', '0.2954', '0.2517'), ('GCHFR', '0.2976', '0.2377')] 
-
-
-comparing up regulation of p-sgYY1-3  and  p-sgYY1-10 : 
-the unqiue 21  elements in  p-sgYY1-3
-[('CENPA', '0.3082'), ('ACTR2', '0.2148'), ('AC016723.4', '0.2337'), ('C3orf62', '0.8288'), ('CDV3', '0.2847'), ('LST1', '1.011'), ('SOSTDC1', '0.4138'), ('BRI3', '0.2411'), ('JPX', '0.2562'), ('ARHGEF39', '0.6005'), ('C10orf54', '0.5308'), ('SH2B3', '0.5044'), ('CKAP2', '0.4023'), ('PSME2', '0.2006'), ('CDKN3', '0.2453'), ('CBX1', '0.3156'), ('HOXB2', '0.2256'), ('PRR24', '0.3157'), ('NR1H2', '0.372'), ('C19orf81', '0.204'), ('UBE2M', '0.2617')]
-the unique 59  elements in  p-sgYY1-10
-[('SH3BGRL3', '0.2224'), ('WDTC1', '0.489'), ('CAP1', '0.2039'), ('AHCYL1', '0.2102'), ('S100A13', '0.2042'), ('RAB13', '0.2244'), ('RCSD1', '0.306'), ('FAM89A', '0.3363'), ('CHCHD5', '0.2354'), ('AC007405.6', '0.3968'), ('DLX2', '1.0494'), ('ABHD14B', '0.2656'), ('RPL22L1', '0.2241'), ('KIAA0226', '0.6762'), ('LINC01088', '0.7084'), ('ANKRD55', '1.6491'), ('MEF2C', '0.2382'), ('CXCL14', '0.4664'), ('CYFIP2', '0.9619'), ('GPSM3', '0.3335'), ('GTF2H5', '0.2871'), ('NUDT1', '0.2675'), ('NFE4', '0.2117'), ('LINC01003', '0.3455'), ('AP1S2', '0.3874'), ('FAM127B', '0.2291'), ('ARHGEF6', '0.836'), ('CALB1', '0.6635'), ('NDUFAF6', '0.2709'), ('YWHAZ', '0.2257'), ('PHYH', '0.6577'), ('VIM', '0.298'), ('PCBD1', '0.2287'), ('TIAL1', '0.2759'), ('TAF10', '0.2375'), ('GPR137', '0.526'), ('ACRBP', '0.5763'), ('C12orf57', '0.2189'), ('ZCRB1', '0.234'), ('TMEM106C', '0.3513'), ('SMAGP', '0.284'), ('RP11-620J15.3', '0.213'), ('DLK1', '0.379'), ('ACSM3', '0.255'), ('ORAI3', '0.4665'), ('RPGRIP1L', '0.6392'), ('SAT2', '0.4017'), ('SNORA76', '0.2392'), ('C18orf56', '0.2501'), ('RPL17', '0.2044'), ('FRG1B', '0.3117'), ('TPM4', '0.3032'), ('ABHD8', '0.784'), ('GMFG', '0.2281'), ('LENG8', '0.3582'), ('HSPBP1', '0.2594'), ('LGALS1', '0.2394'), ('SH3BGR', '0.297'), ('YBEY', '0.3361')]
-the shared 12  elements: 
-[('SPRR2D', '1.7184', '2.9259'), ('TMSB10', '0.2045', '0.3077'), ('H1FX', '0.3042', '0.3763'), ('RNF130', '0.2767', '0.4886'), ('HIST1H4C', '0.2111', '0.2656'), ('MAGED1', '0.709', '0.7873'), ('RPL39', '0.2269', '0.2945'), ('SNCG', '0.2829', '0.3447'), ('POLD4', '0.2426', '0.2421'), ('RP11-433M22.2', '3.2105', '5.44'), ('TYROBP', '0.4598', '0.3408'), ('ATF5', '0.2152', '0.2497')] 
-
-
-comparing up regulation of p-sgETS1-5  and  p-sgETS1-3 : 
-the unqiue 21  elements in  p-sgETS1-5
-[('HES4', '0.2294'), ('SRM', '0.2435'), ('SLC16A1-AS1', '0.6808'), ('GTF3C2', '0.3633'), ('MRPS30', '0.2089'), ('CXCL14', '0.374'), ('ERGIC1', '0.3593'), ('BRI3', '0.2459'), ('JPX', '0.2425'), ('RPL39', '0.2216'), ('DGAT1', '0.2956'), ('PCBD1', '0.2001'), ('ZNF511', '0.2322'), ('FUOM', '0.2725'), ('PPP1R14B', '0.2484'), ('PRR13', '0.2154'), ('NR2F2-AS1', '1.1175'), ('RANGRF', '0.4096'), ('CBX1', '0.2953'), ('HOXB2', '0.2527'), ('PGLS', '0.2177')]
-the unique 24  elements in  p-sgETS1-3
-[('PTRHD1', '0.2213'), ('NBEAL1', '0.2153'), ('C5orf51', '0.6098'), ('LINC01033', '0.2607'), ('HIST1H2BC', '0.2775'), ('HIST1H2BJ', '0.2519'), ('GTF2H5', '0.2049'), ('RBM3', '0.2552'), ('HMGN5', '0.7347'), ('EIF4EBP1', '0.2303'), ('MED27', '0.5326'), ('TMEM141', '0.2141'), ('SNCG', '0.2417'), ('NPM3', '0.2034'), ('TAF10', '0.2478'), ('FIBP', '0.2557'), ('YBX3', '0.2016'), ('MRP63', '0.2041'), ('PSME2', '0.224'), ('RPUSD1', '0.3619'), ('TMEM219', '0.216'), ('CDT1', '0.2013'), ('JUND', '0.256'), ('SPATC1L', '0.2232')]
-the shared 1  elements: 
-[('MRPL12', '0.2008', '0.2031')] 
-
-
-comparing up regulation of p-sgIRF1-3  and  p-sgIRF1-2 : 
-the unqiue 44  elements in  p-sgIRF1-3
-[('HES4', '0.2069'), ('SMIM1', '0.2294'), ('SRM', '0.2341'), ('KIAA1522', '0.3992'), ('NAV1', '0.4028'), ('POLE4', '0.2192'), ('COA5', '0.2724'), ('THAP4', '0.3571'), ('NDUFAF3', '0.2009'), ('FOXL2', '0.461'), ('POLD2', '0.2368'), ('POP7', '0.2016'), ('MAGED1', '0.829'), ('HMGN5', '0.6799'), ('YWHAZ', '0.2722'), ('SUSD3', '0.3983'), ('COQ4', '0.2643'), ('FUOM', '0.2798'), ('PPP1R14B', '0.238'), ('PHB2', '0.2047'), ('PRR13', '0.2124'), ('MRP63', '0.2049'), ('GCHFR', '0.3195'), ('RFX7', '1.2391'), ('ARID3B', '0.7571'), ('NME4', '0.2466'), ('FAM195A', '0.2257'), ('RPUSD1', '0.3648'), ('NUBP2', '0.201'), ('CTD-3195I5.1', '1.3857'), ('CISD3', '0.222'), ('ICT1', '0.2142'), ('C17orf89', '0.201'), ('MRPL12', '0.2404'), ('RAC3', '0.2109'), ('GPI', '0.2157'), ('C19orf47', '0.7966'), ('TNNT1', '0.2083'), ('EPN1', '0.2983'), ('UBE2M', '0.307'), ('C22orf39', '0.2144'), ('MIF', '0.2165'), ('TOM1', '0.9632'), ('AL133493.2', '0.5076')]
-the unique 29  elements in  p-sgIRF1-2
-[('MYCBP', '0.266'), ('S100A1', '0.372'), ('LAMTOR2', '0.2393'), ('PTRHD1', '0.2172'), ('CENPA', '0.2264'), ('ATG9A', '0.5239'), ('UBE2E1', '0.2488'), ('DCTD', '0.3475'), ('LINC01003', '0.3605'), ('JPX', '0.3254'), ('FXN', '0.2628'), ('PCBD1', '0.2157'), ('SNCG', '0.2293'), ('SNX15', '0.6897'), ('CDKN3', '0.2828'), ('TMEM219', '0.2215'), ('COA3', '0.2068'), ('RP11-433M22.2', '4.4728'), ('TPGS2', '0.2066'), ('CFD', '0.2047'), ('POLR2E', '0.2088'), ('PLIN3', '0.2574'), ('CTXN1', '0.5386'), ('PGLS', '0.212'), ('NUDT19', '0.5616'), ('TYROBP', '0.471'), ('ZNF607', '0.5107'), ('POLR3H', '0.248'), ('SPATC1L', '0.2019')]
-the shared 6  elements: 
-[('CHCHD5', '0.2252', '0.2205'), ('UBXN7', '0.5075', '0.4979'), ('CXCL14', '0.3529', '0.4792'), ('HIST1H2BJ', '0.2926', '0.2395'), ('MYBL2', '0.2231', '0.2878'), ('CRKL', '0.2444', '0.2462')] 
-
-
-comparing up regulation of p-sgE2F4-6  and  p-sgE2F4-7 : 
-the unqiue 31  elements in  p-sgE2F4-6
-[('SMIM1', '0.2521'), ('SRM', '0.2198'), ('MRPL33', '0.2678'), ('MRPL53', '0.3144'), ('GYPC', '0.2289'), ('NBEAL1', '0.2329'), ('RPL29', '0.2061'), ('CXCL14', '0.3883'), ('HIST1H1C', '0.2289'), ('HIST1H2AC', '0.2115'), ('ORC3', '0.3838'), ('BRI3', '0.2716'), ('JPX', '0.2828'), ('RPL39', '0.2028'), ('RP11-10A14.5', '0.5225'), ('EIF4EBP1', '0.2105'), ('FUOM', '0.235'), ('RPS6KB2', '0.2852'), ('PHB2', '0.2159'), ('PRR13', '0.2329'), ('CS', '0.247'), ('PSMD9', '0.217'), ('MSRB1', '0.2475'), ('FLOT2', '0.2844'), ('CISD3', '0.2279'), ('C17orf89', '0.2067'), ('MRPL12', '0.2156'), ('DLGAP4', '0.3651'), ('ICAM3', '0.2322'), ('EIF3L', '0.2133'), ('ATP5L2', '0.2075')]
-the unique 14  elements in  p-sgE2F4-7
-[('CENPA', '0.2285'), ('ARHGAP18', '0.2842'), ('ZNF277', '0.2521'), ('RBM3', '0.2113'), ('IGBP1', '0.2396'), ('SIRT1', '0.6491'), ('MRPL43', '0.2413'), ('NUDT21', '0.2378'), ('MT2A', '1.0465'), ('TOP2A', '0.2231'), ('HOXB2', '0.2576'), ('MYBL2', '0.2387'), ('CRKL', '0.2794'), ('MPST', '0.2069')]
-the shared 5  elements: 
-[('AC016723.4', '0.2306', '0.2089'), ('LINC01033', '0.2808', '0.2629'), ('HIST1H2BC', '0.2881', '0.3147'), ('HIST1H2BJ', '0.3653', '0.2658'), ('PCBD1', '0.2426', '0.2132')] 
-
-
-comparing up regulation of p-sgELF1-2  and  p-sgELF1-5 : 
-the unqiue 16  elements in  p-sgELF1-2
-[('CTNNBIP1', '0.2174'), ('PGD', '0.2273'), ('SMYD3', '0.2034'), ('MRPL53', '0.3085'), ('TMSB10', '0.2357'), ('NBEAL1', '0.2129'), ('TMSB4X', '0.2298'), ('FTSJ1', '0.3156'), ('C8orf82', '0.2973'), ('TMEM141', '0.2165'), ('PCBD1', '0.214'), ('C12orf57', '0.2241'), ('RP11-433M22.2', '4.427'), ('MYBL2', '0.2502'), ('SH3BGR', '0.3323'), ('SPATC1L', '0.218')]
-the unique 14  elements in  p-sgELF1-5
-[('NUDT1', '0.2044'), ('SOSTDC1', '0.5039'), ('SLC25A6', '0.2028'), ('FXN', '0.2476'), ('PHF19', '0.2055'), ('FIBP', '0.3254'), ('RPS6KB2', '0.2008'), ('PRR13', '0.216'), ('CDKN3', '0.2782'), ('GCHFR', '0.2223'), ('TMEM219', '0.2046'), ('MRPL12', '0.2248'), ('ECSIT', '0.257'), ('RFXANK', '0.202')]
-the shared 9  elements: 
-[('CXCL14', '0.3709', '0.3641'), ('HIST1H2BJ', '0.2897', '0.3389'), ('LST1', '1.1307', '0.9185'), ('JPX', '0.243', '0.2801'), ('FUOM', '0.2692', '0.2354'), ('PHB2', '0.2114', '0.235'), ('PSME2', '0.2071', '0.2435'), ('PGLS', '0.2266', '0.237'), ('TYROBP', '0.3312', '0.353')] 
-
-
-comparing up regulation of p-sgELF1-2  and  p-sgELF1-1 : 
-the unqiue 19  elements in  p-sgELF1-2
-[('CTNNBIP1', '0.2174'), ('PGD', '0.2273'), ('SMYD3', '0.2034'), ('MRPL53', '0.3085'), ('LST1', '1.1307'), ('TMSB4X', '0.2298'), ('FTSJ1', '0.3156'), ('JPX', '0.243'), ('C8orf82', '0.2973'), ('TMEM141', '0.2165'), ('PCBD1', '0.214'), ('FUOM', '0.2692'), ('PHB2', '0.2114'), ('RP11-433M22.2', '4.427'), ('MYBL2', '0.2502'), ('PGLS', '0.2266'), ('TYROBP', '0.3312'), ('SH3BGR', '0.3323'), ('SPATC1L', '0.218')]
-the unique 20  elements in  p-sgELF1-1
-[('SRM', '0.2042'), ('CENPA', '0.254'), ('CHCHD5', '0.2006'), ('C3orf38', '0.6252'), ('SLC25A6', '0.2031'), ('SUSD3', '0.392'), ('COQ4', '0.2158'), ('RASGEF1A', '0.4818'), ('PRR13', '0.2061'), ('SOCS2', '0.2327'), ('ACSM3', '0.2059'), ('GINS2', '0.2169'), ('CDT1', '0.2391'), ('FLOT2', '0.2877'), ('SKA2', '0.2507'), ('MRPL12', '0.2043'), ('MED29', '0.3901'), ('ATF5', '0.2851'), ('BCL2L13', '0.2809'), ('LGALS1', '0.2004')]
-the shared 6  elements: 
-[('TMSB10', '0.2357', '0.2159'), ('NBEAL1', '0.2129', '0.2121'), ('CXCL14', '0.3709', '0.4003'), ('HIST1H2BJ', '0.2897', '0.2967'), ('C12orf57', '0.2241', '0.2084'), ('PSME2', '0.2071', '0.2043')] 
-
-
-comparing up regulation of p-sgELF1-2  and  p-sgELF1-4 : 
-the unqiue 18  elements in  p-sgELF1-2
-[('CTNNBIP1', '0.2174'), ('PGD', '0.2273'), ('SMYD3', '0.2034'), ('MRPL53', '0.3085'), ('TMSB10', '0.2357'), ('NBEAL1', '0.2129'), ('LST1', '1.1307'), ('FTSJ1', '0.3156'), ('C8orf82', '0.2973'), ('TMEM141', '0.2165'), ('PCBD1', '0.214'), ('C12orf57', '0.2241'), ('PHB2', '0.2114'), ('RP11-433M22.2', '4.427'), ('PGLS', '0.2266'), ('TYROBP', '0.3312'), ('SH3BGR', '0.3323'), ('SPATC1L', '0.218')]
-the unique 20  elements in  p-sgELF1-4
-[('SRM', '0.2007'), ('RPL39L', '0.2666'), ('CDKN2AIPNL', '0.2988'), ('SERPINB6', '0.2025'), ('BRI3', '0.2623'), ('FIS1', '0.2005'), ('COQ4', '0.2209'), ('SNCG', '0.2546'), ('TIAL1', '0.2511'), ('SPI1', '0.2775'), ('PPP1R14B', '0.2456'), ('MYL6B', '0.204'), ('SKA2', '0.2466'), ('MRPL12', '0.2082'), ('RAC3', '0.2165'), ('TICAM1', '0.7552'), ('CAPNS1', '0.2383'), ('PPP1R14A', '0.2247'), ('PKNOX1', '0.7557'), ('AL133493.2', '0.4359')]
-the shared 7  elements: 
-[('CXCL14', '0.3709', '0.4308'), ('HIST1H2BJ', '0.2897', '0.2608'), ('TMSB4X', '0.2298', '0.2155'), ('JPX', '0.243', '0.3379'), ('FUOM', '0.2692', '0.2676'), ('PSME2', '0.2071', '0.2235'), ('MYBL2', '0.2502', '0.2512')] 
-
-
-comparing up regulation of p-sgELF1-5  and  p-sgELF1-1 : 
-the unqiue 17  elements in  p-sgELF1-5
-[('LST1', '0.9185'), ('NUDT1', '0.2044'), ('SOSTDC1', '0.5039'), ('JPX', '0.2801'), ('FXN', '0.2476'), ('PHF19', '0.2055'), ('FUOM', '0.2354'), ('FIBP', '0.3254'), ('RPS6KB2', '0.2008'), ('PHB2', '0.235'), ('CDKN3', '0.2782'), ('GCHFR', '0.2223'), ('TMEM219', '0.2046'), ('ECSIT', '0.257'), ('PGLS', '0.237'), ('RFXANK', '0.202'), ('TYROBP', '0.353')]
-the unique 20  elements in  p-sgELF1-1
-[('SRM', '0.2042'), ('CENPA', '0.254'), ('TMSB10', '0.2159'), ('CHCHD5', '0.2006'), ('NBEAL1', '0.2121'), ('C3orf38', '0.6252'), ('SUSD3', '0.392'), ('COQ4', '0.2158'), ('RASGEF1A', '0.4818'), ('C12orf57', '0.2084'), ('SOCS2', '0.2327'), ('ACSM3', '0.2059'), ('GINS2', '0.2169'), ('CDT1', '0.2391'), ('FLOT2', '0.2877'), ('SKA2', '0.2507'), ('MED29', '0.3901'), ('ATF5', '0.2851'), ('BCL2L13', '0.2809'), ('LGALS1', '0.2004')]
-the shared 6  elements: 
-[('CXCL14', '0.3641', '0.4003'), ('HIST1H2BJ', '0.3389', '0.2967'), ('SLC25A6', '0.2028', '0.2031'), ('PRR13', '0.216', '0.2061'), ('PSME2', '0.2435', '0.2043'), ('MRPL12', '0.2248', '0.2043')] 
-
-
-comparing up regulation of p-sgELF1-5  and  p-sgELF1-4 : 
-the unqiue 17  elements in  p-sgELF1-5
-[('LST1', '0.9185'), ('NUDT1', '0.2044'), ('SOSTDC1', '0.5039'), ('SLC25A6', '0.2028'), ('FXN', '0.2476'), ('PHF19', '0.2055'), ('FIBP', '0.3254'), ('RPS6KB2', '0.2008'), ('PHB2', '0.235'), ('PRR13', '0.216'), ('CDKN3', '0.2782'), ('GCHFR', '0.2223'), ('TMEM219', '0.2046'), ('ECSIT', '0.257'), ('PGLS', '0.237'), ('RFXANK', '0.202'), ('TYROBP', '0.353')]
-the unique 21  elements in  p-sgELF1-4
-[('SRM', '0.2007'), ('RPL39L', '0.2666'), ('CDKN2AIPNL', '0.2988'), ('SERPINB6', '0.2025'), ('BRI3', '0.2623'), ('FIS1', '0.2005'), ('TMSB4X', '0.2155'), ('COQ4', '0.2209'), ('SNCG', '0.2546'), ('TIAL1', '0.2511'), ('SPI1', '0.2775'), ('PPP1R14B', '0.2456'), ('MYL6B', '0.204'), ('SKA2', '0.2466'), ('RAC3', '0.2165'), ('MYBL2', '0.2512'), ('TICAM1', '0.7552'), ('CAPNS1', '0.2383'), ('PPP1R14A', '0.2247'), ('PKNOX1', '0.7557'), ('AL133493.2', '0.4359')]
-the shared 6  elements: 
-[('CXCL14', '0.3641', '0.4308'), ('HIST1H2BJ', '0.3389', '0.2608'), ('JPX', '0.2801', '0.3379'), ('FUOM', '0.2354', '0.2676'), ('PSME2', '0.2435', '0.2235'), ('MRPL12', '0.2248', '0.2082')] 
-
-
-comparing up regulation of p-sgELF1-1  and  p-sgELF1-4 : 
-the unqiue 19  elements in  p-sgELF1-1
-[('CENPA', '0.254'), ('TMSB10', '0.2159'), ('CHCHD5', '0.2006'), ('NBEAL1', '0.2121'), ('C3orf38', '0.6252'), ('SLC25A6', '0.2031'), ('SUSD3', '0.392'), ('RASGEF1A', '0.4818'), ('C12orf57', '0.2084'), ('PRR13', '0.2061'), ('SOCS2', '0.2327'), ('ACSM3', '0.2059'), ('GINS2', '0.2169'), ('CDT1', '0.2391'), ('FLOT2', '0.2877'), ('MED29', '0.3901'), ('ATF5', '0.2851'), ('BCL2L13', '0.2809'), ('LGALS1', '0.2004')]
-the unique 20  elements in  p-sgELF1-4
-[('RPL39L', '0.2666'), ('CDKN2AIPNL', '0.2988'), ('SERPINB6', '0.2025'), ('BRI3', '0.2623'), ('FIS1', '0.2005'), ('TMSB4X', '0.2155'), ('JPX', '0.3379'), ('SNCG', '0.2546'), ('TIAL1', '0.2511'), ('FUOM', '0.2676'), ('SPI1', '0.2775'), ('PPP1R14B', '0.2456'), ('MYL6B', '0.204'), ('RAC3', '0.2165'), ('MYBL2', '0.2512'), ('TICAM1', '0.7552'), ('CAPNS1', '0.2383'), ('PPP1R14A', '0.2247'), ('PKNOX1', '0.7557'), ('AL133493.2', '0.4359')]
-the shared 7  elements: 
-[('SRM', '0.2042', '0.2007'), ('CXCL14', '0.4003', '0.4308'), ('HIST1H2BJ', '0.2967', '0.2608'), ('COQ4', '0.2158', '0.2209'), ('PSME2', '0.2043', '0.2235'), ('SKA2', '0.2507', '0.2466'), ('MRPL12', '0.2043', '0.2082')] 
-
-
-comparing up regulation of p-sgCREB1-5  and  p-sgCREB1-4 : 
-the unqiue 24  elements in  p-sgCREB1-5
-[('SRM', '0.2132'), ('CENPA', '0.2131'), ('NBEAL1', '0.2094'), ('POMGNT2', '0.5577'), ('CXCL14', '0.39'), ('RBM3', '0.2214'), ('JPX', '0.2963'), ('RPL39', '0.2038'), ('YWHAZ', '0.2215'), ('SIRT1', '0.6726'), ('PPP1R14B', '0.2058'), ('TMEM106C', '0.3111'), ('CRADD', '0.2709'), ('FAM101B', '0.3904'), ('COA3', '0.2211'), ('CBX1', '0.2689'), ('MRPL12', '0.2083'), ('ICAM3', '0.2353'), ('PRR24', '0.2491'), ('NR1H2', '0.4141'), ('C19orf81', '0.2227'), ('EPN1', '0.3215'), ('SLC27A5', '0.2162'), ('UBE2M', '0.2914')]
-the unique 24  elements in  p-sgCREB1-4
-[('RP11-558F24.4', '0.2927'), ('PGD', '0.217'), ('POLE4', '0.2059'), ('LIMS1', '0.2164'), ('HIST1H4C', '0.206'), ('CCDC167', '0.2221'), ('MPLKIP', '0.2761'), ('PRKAR2B', '0.2854'), ('AC073236.3', '0.2029'), ('MAGED1', '0.8921'), ('RP11-10A14.5', '0.4185'), ('HEMGN', '0.3232'), ('CCDC34', '0.216'), ('MYL6B', '0.2359'), ('PSME1', '0.2821'), ('PSME2', '0.2387'), ('SKA2', '0.2961'), ('IER3IP1-1', '0.2075'), ('MMP24-AS1', '0.2413'), ('PPP4R1L', '1.015'), ('RPSAP58', '0.21'), ('ZNF607', '0.531'), ('LENG8', '0.297'), ('SPATC1L', '0.2152')]
-the shared 4  elements: 
-[('LINC01033', '0.2516', '0.2471'), ('HIST1H2BJ', '0.2912', '0.2644'), ('RP11-433M22.2', '3.6098', '5.2132'), ('MYBL2', '0.2591', '0.276')] 
-
-
-comparing up regulation of p-sgCREB1-5  and  p-sgCREB1-2 : 
-the unqiue 17  elements in  p-sgCREB1-5
-[('CENPA', '0.2131'), ('NBEAL1', '0.2094'), ('POMGNT2', '0.5577'), ('RBM3', '0.2214'), ('RPL39', '0.2038'), ('YWHAZ', '0.2215'), ('SIRT1', '0.6726'), ('TMEM106C', '0.3111'), ('CRADD', '0.2709'), ('FAM101B', '0.3904'), ('COA3', '0.2211'), ('CBX1', '0.2689'), ('MRPL12', '0.2083'), ('MYBL2', '0.2591'), ('ICAM3', '0.2353'), ('C19orf81', '0.2227'), ('SLC27A5', '0.2162')]
-the unique 18  elements in  p-sgCREB1-2
-[('MIIP', '0.2119'), ('FGGY', '0.7539'), ('CDV3', '0.2932'), ('NHP2', '0.2112'), ('BRI3', '0.2541'), ('COQ4', '0.212'), ('TMEM141', '0.2204'), ('CREM', '0.2874'), ('PCBD1', '0.2059'), ('FUOM', '0.233'), ('TAF10', '0.2476'), ('CDKN3', '0.2808'), ('TMEM219', '0.2013'), ('HOXB2', '0.2487'), ('SKA2', '0.2602'), ('PGLS', '0.2197'), ('RPSAP58', '0.2193'), ('POLR3H', '0.2578')]
-the shared 11  elements: 
-[('SRM', '0.2132', '0.2385'), ('LINC01033', '0.2516', '0.2918'), ('CXCL14', '0.39', '0.358'), ('HIST1H2BJ', '0.2912', '0.2623'), ('JPX', '0.2963', '0.2703'), ('PPP1R14B', '0.2058', '0.2459'), ('RP11-433M22.2', '3.6098', '2.5502'), ('PRR24', '0.2491', '0.3268'), ('NR1H2', '0.4141', '0.3764'), ('EPN1', '0.3215', '0.2919'), ('UBE2M', '0.2914', '0.2654')] 
-
-
-comparing up regulation of p-sgCREB1-4  and  p-sgCREB1-2 : 
-the unqiue 23  elements in  p-sgCREB1-4
-[('RP11-558F24.4', '0.2927'), ('PGD', '0.217'), ('POLE4', '0.2059'), ('LIMS1', '0.2164'), ('HIST1H4C', '0.206'), ('CCDC167', '0.2221'), ('MPLKIP', '0.2761'), ('PRKAR2B', '0.2854'), ('AC073236.3', '0.2029'), ('MAGED1', '0.8921'), ('RP11-10A14.5', '0.4185'), ('HEMGN', '0.3232'), ('CCDC34', '0.216'), ('MYL6B', '0.2359'), ('PSME1', '0.2821'), ('PSME2', '0.2387'), ('IER3IP1-1', '0.2075'), ('MMP24-AS1', '0.2413'), ('MYBL2', '0.276'), ('PPP4R1L', '1.015'), ('ZNF607', '0.531'), ('LENG8', '0.297'), ('SPATC1L', '0.2152')]
-the unique 24  elements in  p-sgCREB1-2
-[('SRM', '0.2385'), ('MIIP', '0.2119'), ('FGGY', '0.7539'), ('CDV3', '0.2932'), ('CXCL14', '0.358'), ('NHP2', '0.2112'), ('BRI3', '0.2541'), ('JPX', '0.2703'), ('COQ4', '0.212'), ('TMEM141', '0.2204'), ('CREM', '0.2874'), ('PCBD1', '0.2059'), ('FUOM', '0.233'), ('TAF10', '0.2476'), ('PPP1R14B', '0.2459'), ('CDKN3', '0.2808'), ('TMEM219', '0.2013'), ('HOXB2', '0.2487'), ('PGLS', '0.2197'), ('PRR24', '0.3268'), ('NR1H2', '0.3764'), ('EPN1', '0.2919'), ('UBE2M', '0.2654'), ('POLR3H', '0.2578')]
-the shared 5  elements: 
-[('LINC01033', '0.2471', '0.2918'), ('HIST1H2BJ', '0.2644', '0.2623'), ('RP11-433M22.2', '5.2132', '2.5502'), ('SKA2', '0.2961', '0.2602'), ('RPSAP58', '0.21', '0.2193')] 
-
-
-comparing up regulation of p-sgEGR1-4  and  p-sgEGR1-2 : 
-the unqiue 28  elements in  p-sgEGR1-4
-[('HES4', '0.2284'), ('STRADB', '0.5176'), ('HIST1H2BC', '0.2616'), ('JPX', '0.3201'), ('HMGB3', '0.2183'), ('NAA10', '0.2003'), ('COQ4', '0.2679'), ('TAF10', '0.2402'), ('C11orf24', '0.2523'), ('LAMTOR1', '0.2022'), ('PHB2', '0.2314'), ('SMAGP', '0.2327'), ('MRP63', '0.2112'), ('NME4', '0.2155'), ('STUB1', '0.2061'), ('HN1L', '0.272'), ('NTHL1', '0.2416'), ('E2F4', '0.2423'), ('GCSH', '0.6186'), ('GINS2', '0.2427'), ('COA3', '0.2439'), ('MRPL10', '0.2387'), ('MRPL12', '0.2399'), ('TYMS', '0.2382'), ('PRR24', '0.263'), ('PRPF31', '0.2422'), ('RRP7A', '0.2872'), ('TYMP', '0.3986')]
-the unique 21  elements in  p-sgEGR1-2
-[('PGD', '0.2045'), ('FAM89A', '0.325'), ('PTRHD1', '0.2108'), ('GTF3C2', '0.4615'), ('MRPL53', '0.2875'), ('GCFC2', '0.4752'), ('OXNAD1', '0.4005'), ('RAB28', '0.4844'), ('LINC01033', '0.2474'), ('HIST1H4C', '0.2084'), ('MPLKIP', '0.2179'), ('BRI3', '0.2839'), ('C7orf73', '0.2012'), ('FUOM', '0.2943'), ('GCHFR', '0.2482'), ('HDDC3', '0.2626'), ('RPUSD1', '0.4062'), ('TMEM219', '0.2047'), ('MYBL2', '0.2784'), ('CTD-2369P2.8', '1.2241'), ('TYROBP', '0.3504')]
-the shared 8  elements: 
-[('SRM', '0.2211', '0.2086'), ('CENPA', '0.2165', '0.2323'), ('POLR2D', '0.3174', '0.2689'), ('CXCL14', '0.3914', '0.3519'), ('HIST1H2BJ', '0.3459', '0.2542'), ('FAM58A', '0.3667', '0.297'), ('PRR13', '0.2608', '0.2223'), ('PSME2', '0.2392', '0.2875')] 
-
-
-comparing up regulation of p-sgEGR1-4  and  p-sgEGR1-3 : 
-the unqiue 31  elements in  p-sgEGR1-4
-[('HES4', '0.2284'), ('SRM', '0.2211'), ('CENPA', '0.2165'), ('POLR2D', '0.3174'), ('STRADB', '0.5176'), ('HIST1H2BC', '0.2616'), ('HMGB3', '0.2183'), ('FAM58A', '0.3667'), ('NAA10', '0.2003'), ('COQ4', '0.2679'), ('C11orf24', '0.2523'), ('LAMTOR1', '0.2022'), ('PHB2', '0.2314'), ('SMAGP', '0.2327'), ('PRR13', '0.2608'), ('MRP63', '0.2112'), ('NME4', '0.2155'), ('STUB1', '0.2061'), ('HN1L', '0.272'), ('NTHL1', '0.2416'), ('E2F4', '0.2423'), ('GCSH', '0.6186'), ('GINS2', '0.2427'), ('COA3', '0.2439'), ('MRPL10', '0.2387'), ('MRPL12', '0.2399'), ('TYMS', '0.2382'), ('PRR24', '0.263'), ('PRPF31', '0.2422'), ('RRP7A', '0.2872'), ('TYMP', '0.3986')]
-the unique 18  elements in  p-sgEGR1-3
-[('FAM89A', '0.3238'), ('STARD7', '0.2613'), ('NIT2', '0.5395'), ('RAB28', '0.5134'), ('AP3S1', '0.238'), ('RBM3', '0.2001'), ('MAGED1', '0.7589'), ('C8orf88', '0.3069'), ('TEX30', '0.2349'), ('CDKN3', '0.2863'), ('TRMT61A', '0.4478'), ('UBBP4', '0.2335'), ('SKA2', '0.3067'), ('ACTN4', '0.2066'), ('GMFG', '0.2505'), ('EPN1', '0.2808'), ('MTFP1', '0.2669'), ('LGALS1', '0.2488')]
-the shared 5  elements: 
-[('CXCL14', '0.3914', '0.3878'), ('HIST1H2BJ', '0.3459', '0.2978'), ('JPX', '0.3201', '0.299'), ('TAF10', '0.2402', '0.2208'), ('PSME2', '0.2392', '0.2623')] 
-
-
-comparing up regulation of p-sgEGR1-2  and  p-sgEGR1-3 : 
-the unqiue 24  elements in  p-sgEGR1-2
-[('PGD', '0.2045'), ('SRM', '0.2086'), ('PTRHD1', '0.2108'), ('CENPA', '0.2323'), ('GTF3C2', '0.4615'), ('MRPL53', '0.2875'), ('GCFC2', '0.4752'), ('POLR2D', '0.2689'), ('OXNAD1', '0.4005'), ('LINC01033', '0.2474'), ('HIST1H4C', '0.2084'), ('MPLKIP', '0.2179'), ('BRI3', '0.2839'), ('C7orf73', '0.2012'), ('FAM58A', '0.297'), ('FUOM', '0.2943'), ('PRR13', '0.2223'), ('GCHFR', '0.2482'), ('HDDC3', '0.2626'), ('RPUSD1', '0.4062'), ('TMEM219', '0.2047'), ('MYBL2', '0.2784'), ('CTD-2369P2.8', '1.2241'), ('TYROBP', '0.3504')]
-the unique 18  elements in  p-sgEGR1-3
-[('STARD7', '0.2613'), ('NIT2', '0.5395'), ('AP3S1', '0.238'), ('RBM3', '0.2001'), ('MAGED1', '0.7589'), ('JPX', '0.299'), ('C8orf88', '0.3069'), ('TAF10', '0.2208'), ('TEX30', '0.2349'), ('CDKN3', '0.2863'), ('TRMT61A', '0.4478'), ('UBBP4', '0.2335'), ('SKA2', '0.3067'), ('ACTN4', '0.2066'), ('GMFG', '0.2505'), ('EPN1', '0.2808'), ('MTFP1', '0.2669'), ('LGALS1', '0.2488')]
-the shared 5  elements: 
-[('FAM89A', '0.325', '0.3238'), ('RAB28', '0.4844', '0.5134'), ('CXCL14', '0.3519', '0.3878'), ('HIST1H2BJ', '0.2542', '0.2978'), ('PSME2', '0.2875', '0.2623')] 
-
-
-comparing up regulation of p-sgELK1-6  and  p-sgELK1-7 : 
-the unqiue 22  elements in  p-sgELK1-6
-[('HES4', '0.2201'), ('SRM', '0.2089'), ('LYPLA2', '0.2615'), ('DUSP12', '0.3191'), ('PTRHD1', '0.2284'), ('POLR2D', '0.272'), ('AC018890.6', '1.0512'), ('NBEAL1', '0.2113'), ('H1FX', '0.2924'), ('ANAPC13', '0.2004'), ('LINC01033', '0.2578'), ('HIST1H4C', '0.2078'), ('HIST1H2BJ', '0.2704'), ('JHDM1D-AS1', '0.8659'), ('MAGED1', '0.6621'), ('PCBD1', '0.2011'), ('PPP1R14B', '0.2012'), ('MCRS1', '0.2712'), ('GCHFR', '0.2267'), ('RP11-433M22.2', '4.2354'), ('MRPL12', '0.2065'), ('C22orf39', '0.2082')]
-the unique 16  elements in  p-sgELK1-7
-[('R3HDM1', '0.3697'), ('MEF2C', '0.23'), ('DCP2', '0.2665'), ('CXCL14', '0.3293'), ('GNA12', '0.6274'), ('AP1S2', '0.2872'), ('TAF10', '0.2485'), ('PHB2', '0.2181'), ('LIMA1', '0.5188'), ('SOCS2', '0.2542'), ('CRADD', '0.2946'), ('PSME2', '0.2367'), ('RPUSD1', '0.3787'), ('CTD-2576D5.4', '0.316'), ('GINS2', '0.2347'), ('TOP2A', '0.2354')]
-the shared 5  elements: 
-[('SOSTDC1', '0.4539', '0.6008'), ('RBM3', '0.2097', '0.2127'), ('JPX', '0.3064', '0.2454'), ('MYL6B', '0.2047', '0.2071'), ('PGLS', '0.2475', '0.2215')] 
-
-
-comparing up regulation of p-sgELK1-6  and  p-sgELK1-1 : 
-the unqiue 23  elements in  p-sgELK1-6
-[('HES4', '0.2201'), ('SRM', '0.2089'), ('LYPLA2', '0.2615'), ('DUSP12', '0.3191'), ('PTRHD1', '0.2284'), ('POLR2D', '0.272'), ('AC018890.6', '1.0512'), ('NBEAL1', '0.2113'), ('ANAPC13', '0.2004'), ('LINC01033', '0.2578'), ('HIST1H4C', '0.2078'), ('HIST1H2BJ', '0.2704'), ('SOSTDC1', '0.4539'), ('JHDM1D-AS1', '0.8659'), ('RBM3', '0.2097'), ('MAGED1', '0.6621'), ('PCBD1', '0.2011'), ('PPP1R14B', '0.2012'), ('MCRS1', '0.2712'), ('GCHFR', '0.2267'), ('MRPL12', '0.2065'), ('PGLS', '0.2475'), ('C22orf39', '0.2082')]
-the unique 21  elements in  p-sgELK1-1
-[('ACOT7', '0.2928'), ('RP11-558F24.4', '0.3168'), ('RAVER2', '1.4097'), ('ZC3H6', '0.5497'), ('COX17', '0.2183'), ('SCOC', '0.3556'), ('C5orf51', '0.6064'), ('CXCL14', '0.4104'), ('ARHGAP18', '0.2839'), ('RPL39', '0.211'), ('RP11-10A14.5', '0.4119'), ('EIF4EBP1', '0.2016'), ('FIBP', '0.2479'), ('POLD4', '0.2706'), ('BCDIN3D', '1.0889'), ('TEX30', '0.2225'), ('NUDT14', '0.4158'), ('GFER', '0.2381'), ('MLST8', '0.2641'), ('HOXB2', '0.2749'), ('CRLS1', '0.2841')]
-the shared 4  elements: 
-[('H1FX', '0.2924', '0.2989'), ('JPX', '0.3064', '0.2764'), ('MYL6B', '0.2047', '0.2146'), ('RP11-433M22.2', '4.2354', '2.1517')] 
-
-
-comparing up regulation of p-sgELK1-7  and  p-sgELK1-1 : 
-the unqiue 18  elements in  p-sgELK1-7
-[('R3HDM1', '0.3697'), ('MEF2C', '0.23'), ('DCP2', '0.2665'), ('GNA12', '0.6274'), ('SOSTDC1', '0.6008'), ('AP1S2', '0.2872'), ('RBM3', '0.2127'), ('TAF10', '0.2485'), ('PHB2', '0.2181'), ('LIMA1', '0.5188'), ('SOCS2', '0.2542'), ('CRADD', '0.2946'), ('PSME2', '0.2367'), ('RPUSD1', '0.3787'), ('CTD-2576D5.4', '0.316'), ('GINS2', '0.2347'), ('TOP2A', '0.2354'), ('PGLS', '0.2215')]
-the unique 22  elements in  p-sgELK1-1
-[('ACOT7', '0.2928'), ('RP11-558F24.4', '0.3168'), ('RAVER2', '1.4097'), ('ZC3H6', '0.5497'), ('COX17', '0.2183'), ('H1FX', '0.2989'), ('SCOC', '0.3556'), ('C5orf51', '0.6064'), ('ARHGAP18', '0.2839'), ('RPL39', '0.211'), ('RP11-10A14.5', '0.4119'), ('EIF4EBP1', '0.2016'), ('FIBP', '0.2479'), ('POLD4', '0.2706'), ('BCDIN3D', '1.0889'), ('TEX30', '0.2225'), ('NUDT14', '0.4158'), ('GFER', '0.2381'), ('MLST8', '0.2641'), ('RP11-433M22.2', '2.1517'), ('HOXB2', '0.2749'), ('CRLS1', '0.2841')]
-the shared 3  elements: 
-[('CXCL14', '0.3293', '0.4104'), ('JPX', '0.2454', '0.2764'), ('MYL6B', '0.2071', '0.2146')] 
-
-
-comparing up regulation of p-sgNR2C2-5  and  p-sgNR2C2-3 : 
-the unqiue 17  elements in  p-sgNR2C2-5
-[('UBE2E1', '0.2653'), ('COX17', '0.3784'), ('ATP5I', '0.2933'), ('LST1', '0.9087'), ('BRI3', '0.2246'), ('CSAG1', '0.2138'), ('RPL35', '0.227'), ('PCBD1', '0.2323'), ('POLD4', '0.2393'), ('ANAPC15', '0.4084'), ('CDKN3', '0.237'), ('SNW1', '0.2731'), ('TMEM219', '0.2016'), ('CTD-3195I5.1', '1.1085'), ('MRPL10', '0.2619'), ('TPGS2', '0.2021'), ('SNRPD3', '0.2074')]
-the unique 26  elements in  p-sgNR2C2-3
-[('PGD', '0.2595'), ('RPL29', '0.2028'), ('MSL2', '0.9201'), ('CTBP1', '0.3789'), ('LINC01033', '0.2977'), ('CXCL14', '0.3955'), ('HIST1H4C', '0.223'), ('HIST1H4H', '0.3295'), ('MPLKIP', '0.237'), ('ARHGAP6', '0.2938'), ('JPX', '0.2747'), ('FPGS', '0.4164'), ('RASGEF1A', '0.4788'), ('PHB2', '0.2267'), ('RPL41', '0.2198'), ('FAM96A', '0.2044'), ('RPUSD1', '0.425'), ('SF3B3', '0.2787'), ('ACLY', '0.3044'), ('PTRF', '0.2186'), ('SMAD2', '0.5669'), ('RPL17', '0.2156'), ('ZNF83', '0.4748'), ('ZNF787', '0.4855'), ('MPST', '0.2098'), ('EIF3L', '0.2143')]
-the shared 8  elements: 
-[('TMSB10', '0.2333', '0.2407'), ('POLR2D', '0.2763', '0.3385'), ('NBEAL1', '0.2254', '0.2159'), ('H1FX', '0.3358', '0.3764'), ('ERGIC1', '0.4008', '0.3627'), ('HIST1H2BJ', '0.2147', '0.2888'), ('SLC25A6', '0.206', '0.2311'), ('PGLS', '0.2129', '0.2148')] 
-
-
-comparing up regulation of p-sgNR2C2-5  and  p-sgNR2C2-2 : 
-the unqiue 20  elements in  p-sgNR2C2-5
-[('TMSB10', '0.2333'), ('POLR2D', '0.2763'), ('UBE2E1', '0.2653'), ('H1FX', '0.3358'), ('ATP5I', '0.2933'), ('ERGIC1', '0.4008'), ('HIST1H2BJ', '0.2147'), ('LST1', '0.9087'), ('BRI3', '0.2246'), ('CSAG1', '0.2138'), ('RPL35', '0.227'), ('POLD4', '0.2393'), ('ANAPC15', '0.4084'), ('CDKN3', '0.237'), ('SNW1', '0.2731'), ('TMEM219', '0.2016'), ('MRPL10', '0.2619'), ('TPGS2', '0.2021'), ('PGLS', '0.2129'), ('SNRPD3', '0.2074')]
-the unique 40  elements in  p-sgNR2C2-2
-[('KIF2C', '0.3614'), ('GATAD2B', '0.5926'), ('ITGB1BP1', '0.2015'), ('MRPL53', '0.4542'), ('R3HDM1', '0.5457'), ('CCDC12', '0.2311'), ('CCDC112', '0.6198'), ('CXCL14', '0.6181'), ('HMMR', '0.4909'), ('ZFP62', '0.7581'), ('DFNA5', '0.6028'), ('RP13-57D9.3', '0.4293'), ('JPX', '0.3415'), ('EIF4EBP1', '0.2537'), ('SUSD3', '0.5028'), ('MRPL23', '0.2445'), ('TAF10', '0.3381'), ('SVIP', '0.2777'), ('RAP1B', '0.2605'), ('TFDP1', '0.29'), ('DTWD1', '0.5058'), ('HDDC3', '0.3556'), ('NME4', '0.2096'), ('RPUSD1', '0.397'), ('GGA2', '0.5744'), ('CKLF', '0.2123'), ('GINS2', '0.2823'), ('CBFA2T3', '0.4012'), ('MRPL12', '0.228'), ('TYMS', '0.2288'), ('RPL17', '0.2199'), ('MYBL2', '0.2783'), ('POLR2E', '0.2036'), ('WIZ', '0.5601'), ('ZNF850', '1.2239'), ('BCL2L13', '0.2827'), ('C22orf39', '0.2097'), ('INPP5J', '0.7444'), ('EIF3L', '0.2513'), ('TTLL12', '0.3974')]
-the shared 5  elements: 
-[('NBEAL1', '0.2254', '0.2012'), ('COX17', '0.3784', '0.2715'), ('SLC25A6', '0.206', '0.2028'), ('PCBD1', '0.2323', '0.2224'), ('CTD-3195I5.1', '1.1085', '1.5068')] 
-
-
-comparing up regulation of p-sgNR2C2-3  and  p-sgNR2C2-2 : 
-the unqiue 27  elements in  p-sgNR2C2-3
-[('PGD', '0.2595'), ('TMSB10', '0.2407'), ('POLR2D', '0.3385'), ('RPL29', '0.2028'), ('H1FX', '0.3764'), ('MSL2', '0.9201'), ('CTBP1', '0.3789'), ('LINC01033', '0.2977'), ('ERGIC1', '0.3627'), ('HIST1H4C', '0.223'), ('HIST1H4H', '0.3295'), ('HIST1H2BJ', '0.2888'), ('MPLKIP', '0.237'), ('ARHGAP6', '0.2938'), ('FPGS', '0.4164'), ('RASGEF1A', '0.4788'), ('PHB2', '0.2267'), ('RPL41', '0.2198'), ('FAM96A', '0.2044'), ('SF3B3', '0.2787'), ('ACLY', '0.3044'), ('PTRF', '0.2186'), ('SMAD2', '0.5669'), ('PGLS', '0.2148'), ('ZNF83', '0.4748'), ('ZNF787', '0.4855'), ('MPST', '0.2098')]
-the unique 38  elements in  p-sgNR2C2-2
-[('KIF2C', '0.3614'), ('GATAD2B', '0.5926'), ('ITGB1BP1', '0.2015'), ('MRPL53', '0.4542'), ('R3HDM1', '0.5457'), ('CCDC12', '0.2311'), ('COX17', '0.2715'), ('CCDC112', '0.6198'), ('HMMR', '0.4909'), ('ZFP62', '0.7581'), ('DFNA5', '0.6028'), ('RP13-57D9.3', '0.4293'), ('EIF4EBP1', '0.2537'), ('SUSD3', '0.5028'), ('PCBD1', '0.2224'), ('MRPL23', '0.2445'), ('TAF10', '0.3381'), ('SVIP', '0.2777'), ('RAP1B', '0.2605'), ('TFDP1', '0.29'), ('DTWD1', '0.5058'), ('HDDC3', '0.3556'), ('NME4', '0.2096'), ('GGA2', '0.5744'), ('CKLF', '0.2123'), ('GINS2', '0.2823'), ('CBFA2T3', '0.4012'), ('CTD-3195I5.1', '1.5068'), ('MRPL12', '0.228'), ('TYMS', '0.2288'), ('MYBL2', '0.2783'), ('POLR2E', '0.2036'), ('WIZ', '0.5601'), ('ZNF850', '1.2239'), ('BCL2L13', '0.2827'), ('C22orf39', '0.2097'), ('INPP5J', '0.7444'), ('TTLL12', '0.3974')]
-the shared 7  elements: 
-[('NBEAL1', '0.2159', '0.2012'), ('CXCL14', '0.3955', '0.6181'), ('SLC25A6', '0.2311', '0.2028'), ('JPX', '0.2747', '0.3415'), ('RPUSD1', '0.425', '0.397'), ('RPL17', '0.2156', '0.2199'), ('EIF3L', '0.2143', '0.2513')] 
-
-
-comparing up regulation of p-sgGABPA-1  and  p-sgGABPA-9 : 
-the unqiue 12  elements in  p-sgGABPA-1
-[('SRM', '0.2045'), ('KIAA1522', '0.3882'), ('MRPL53', '0.3188'), ('KRIT1', '0.27'), ('BRI3', '0.243'), ('MAGED1', '0.837'), ('JPX', '0.2729'), ('RP11-10A14.5', '0.4063'), ('FPGS', '0.4121'), ('MED27', '0.5065'), ('SNW1', '0.2628'), ('MT1E', '1.8772')]
-the unique 94  elements in  p-sgGABPA-9
-[('PGD', '0.213'), ('C1orf123', '0.2654'), ('S100A1', '0.4175'), ('SLC50A1', '0.2515'), ('UFC1', '0.2051'), ('PTRHD1', '0.2163'), ('CENPA', '0.2942'), ('PRADC1', '0.2442'), ('SUCLG1', '0.2131'), ('CHMP3', '0.4079'), ('STRADB', '0.4864'), ('NBEAL1', '0.2841'), ('EEF1B2', '0.2231'), ('RPUSD3', '0.2111'), ('ELP6', '0.2453'), ('RAB28', '0.4557'), ('MND1', '0.2685'), ('ING2', '0.3237'), ('SLC25A4', '0.2283'), ('SKP2', '0.2791'), ('LINC01033', '0.2691'), ('LYRM7', '0.2164'), ('HIST1H4C', '0.2849'), ('GTF2H5', '0.2123'), ('SCIN', '0.2723'), ('MDH2', '0.2122'), ('SLC25A6', '0.2256'), ('RBM3', '0.262'), ('NAA10', '0.2197'), ('FUNDC2', '0.3506'), ('EIF4EBP1', '0.2095'), ('EEF1D', '0.2195'), ('RPL8', '0.2125'), ('RPL12', '0.2403'), ('RPL7A', '0.2013'), ('ATP5C1', '0.2005'), ('PPA1', '0.203'), ('PCBD1', '0.2132'), ('ANAPC16', '0.2098'), ('PDLIM1', '0.239'), ('SFXN4', '0.3254'), ('UROS', '0.3614'), ('FUOM', '0.2262'), ('MACROD1', '0.2428'), ('ARL2', '0.2231'), ('RNASEH2C', '0.2256'), ('POLD4', '0.2734'), ('ANAPC15', '0.432'), ('MRPL48', '0.2719'), ('PHB2', '0.2362'), ('PRR13', '0.2583'), ('ATP5G2', '0.2019'), ('HNRNPA1', '0.2229'), ('SPRYD4', '0.5114'), ('HAUS4', '0.2664'), ('PSME2', '0.2316'), ('RPL4', '0.214'), ('HDDC3', '0.317'), ('HBQ1', '0.2939'), ('RPS2', '0.2422'), ('MLST8', '0.2791'), ('ACSM3', '0.2234'), ('NOB1', '0.2284'), ('CDT1', '0.2145'), ('COX11', '0.296'), ('MRPL12', '0.2202'), ('C18orf56', '0.4468'), ('TPGS2', '0.2053'), ('RPL17', '0.2421'), ('RBCK1', '0.2686'), ('AHCY', '0.2977'), ('MMP24-AS1', '0.2565'), ('PPDPF', '0.2033'), ('POLR2E', '0.2177'), ('GAMT', '0.3372'), ('MATK', '0.3656'), ('ALKBH7', '0.2322'), ('PRDX2', '0.2278'), ('PGLS', '0.2811'), ('LSM4', '0.2931'), ('RPSAP58', '0.2211'), ('PPP1R14A', '0.2517'), ('ECH1', '0.2501'), ('APOC1', '0.2193'), ('ATF5', '0.2195'), ('NDUFA3', '0.2161'), ('ZNF581', '0.2963'), ('CHMP2A', '0.2631'), ('UBE2M', '0.2706'), ('DGCR6L', '0.2247'), ('EIF3L', '0.2182'), ('RPL3', '0.2204'), ('TYMP', '0.4339'), ('SPATC1L', '0.2493')]
-the shared 5  elements: 
-[('CXCL14', '0.4199', '0.5055'), ('HIST1H2BJ', '0.22', '0.3037'), ('PPP1R14B', '0.2338', '0.2166'), ('CDKN3', '0.2954', '0.2517'), ('GCHFR', '0.2976', '0.2377')] 
-
-
-comparing up regulation of p-sgYY1-3  and  p-sgYY1-10 : 
-the unqiue 21  elements in  p-sgYY1-3
-[('CENPA', '0.3082'), ('ACTR2', '0.2148'), ('AC016723.4', '0.2337'), ('C3orf62', '0.8288'), ('CDV3', '0.2847'), ('LST1', '1.011'), ('SOSTDC1', '0.4138'), ('BRI3', '0.2411'), ('JPX', '0.2562'), ('ARHGEF39', '0.6005'), ('C10orf54', '0.5308'), ('SH2B3', '0.5044'), ('CKAP2', '0.4023'), ('PSME2', '0.2006'), ('CDKN3', '0.2453'), ('CBX1', '0.3156'), ('HOXB2', '0.2256'), ('PRR24', '0.3157'), ('NR1H2', '0.372'), ('C19orf81', '0.204'), ('UBE2M', '0.2617')]
-the unique 59  elements in  p-sgYY1-10
-[('SH3BGRL3', '0.2224'), ('WDTC1', '0.489'), ('CAP1', '0.2039'), ('AHCYL1', '0.2102'), ('S100A13', '0.2042'), ('RAB13', '0.2244'), ('RCSD1', '0.306'), ('FAM89A', '0.3363'), ('CHCHD5', '0.2354'), ('AC007405.6', '0.3968'), ('DLX2', '1.0494'), ('ABHD14B', '0.2656'), ('RPL22L1', '0.2241'), ('KIAA0226', '0.6762'), ('LINC01088', '0.7084'), ('ANKRD55', '1.6491'), ('MEF2C', '0.2382'), ('CXCL14', '0.4664'), ('CYFIP2', '0.9619'), ('GPSM3', '0.3335'), ('GTF2H5', '0.2871'), ('NUDT1', '0.2675'), ('NFE4', '0.2117'), ('LINC01003', '0.3455'), ('AP1S2', '0.3874'), ('FAM127B', '0.2291'), ('ARHGEF6', '0.836'), ('CALB1', '0.6635'), ('NDUFAF6', '0.2709'), ('YWHAZ', '0.2257'), ('PHYH', '0.6577'), ('VIM', '0.298'), ('PCBD1', '0.2287'), ('TIAL1', '0.2759'), ('TAF10', '0.2375'), ('GPR137', '0.526'), ('ACRBP', '0.5763'), ('C12orf57', '0.2189'), ('ZCRB1', '0.234'), ('TMEM106C', '0.3513'), ('SMAGP', '0.284'), ('RP11-620J15.3', '0.213'), ('DLK1', '0.379'), ('ACSM3', '0.255'), ('ORAI3', '0.4665'), ('RPGRIP1L', '0.6392'), ('SAT2', '0.4017'), ('SNORA76', '0.2392'), ('C18orf56', '0.2501'), ('RPL17', '0.2044'), ('FRG1B', '0.3117'), ('TPM4', '0.3032'), ('ABHD8', '0.784'), ('GMFG', '0.2281'), ('LENG8', '0.3582'), ('HSPBP1', '0.2594'), ('LGALS1', '0.2394'), ('SH3BGR', '0.297'), ('YBEY', '0.3361')]
-the shared 12  elements: 
-[('SPRR2D', '1.7184', '2.9259'), ('TMSB10', '0.2045', '0.3077'), ('H1FX', '0.3042', '0.3763'), ('RNF130', '0.2767', '0.4886'), ('HIST1H4C', '0.2111', '0.2656'), ('MAGED1', '0.709', '0.7873'), ('RPL39', '0.2269', '0.2945'), ('SNCG', '0.2829', '0.3447'), ('POLD4', '0.2426', '0.2421'), ('RP11-433M22.2', '3.2105', '5.44'), ('TYROBP', '0.4598', '0.3408'), ('ATF5', '0.2152', '0.2497')] 
-
-
-comparing up regulation of p-sgETS1-5  and  p-sgETS1-3 : 
-the unqiue 21  elements in  p-sgETS1-5
-[('HES4', '0.2294'), ('SRM', '0.2435'), ('SLC16A1-AS1', '0.6808'), ('GTF3C2', '0.3633'), ('MRPS30', '0.2089'), ('CXCL14', '0.374'), ('ERGIC1', '0.3593'), ('BRI3', '0.2459'), ('JPX', '0.2425'), ('RPL39', '0.2216'), ('DGAT1', '0.2956'), ('PCBD1', '0.2001'), ('ZNF511', '0.2322'), ('FUOM', '0.2725'), ('PPP1R14B', '0.2484'), ('PRR13', '0.2154'), ('NR2F2-AS1', '1.1175'), ('RANGRF', '0.4096'), ('CBX1', '0.2953'), ('HOXB2', '0.2527'), ('PGLS', '0.2177')]
-the unique 24  elements in  p-sgETS1-3
-[('PTRHD1', '0.2213'), ('NBEAL1', '0.2153'), ('C5orf51', '0.6098'), ('LINC01033', '0.2607'), ('HIST1H2BC', '0.2775'), ('HIST1H2BJ', '0.2519'), ('GTF2H5', '0.2049'), ('RBM3', '0.2552'), ('HMGN5', '0.7347'), ('EIF4EBP1', '0.2303'), ('MED27', '0.5326'), ('TMEM141', '0.2141'), ('SNCG', '0.2417'), ('NPM3', '0.2034'), ('TAF10', '0.2478'), ('FIBP', '0.2557'), ('YBX3', '0.2016'), ('MRP63', '0.2041'), ('PSME2', '0.224'), ('RPUSD1', '0.3619'), ('TMEM219', '0.216'), ('CDT1', '0.2013'), ('JUND', '0.256'), ('SPATC1L', '0.2232')]
-the shared 1  elements: 
-[('MRPL12', '0.2008', '0.2031')] 
-
-
-comparing up regulation of p-sgIRF1-3  and  p-sgIRF1-2 : 
-the unqiue 44  elements in  p-sgIRF1-3
-[('HES4', '0.2069'), ('SMIM1', '0.2294'), ('SRM', '0.2341'), ('KIAA1522', '0.3992'), ('NAV1', '0.4028'), ('POLE4', '0.2192'), ('COA5', '0.2724'), ('THAP4', '0.3571'), ('NDUFAF3', '0.2009'), ('FOXL2', '0.461'), ('POLD2', '0.2368'), ('POP7', '0.2016'), ('MAGED1', '0.829'), ('HMGN5', '0.6799'), ('YWHAZ', '0.2722'), ('SUSD3', '0.3983'), ('COQ4', '0.2643'), ('FUOM', '0.2798'), ('PPP1R14B', '0.238'), ('PHB2', '0.2047'), ('PRR13', '0.2124'), ('MRP63', '0.2049'), ('GCHFR', '0.3195'), ('RFX7', '1.2391'), ('ARID3B', '0.7571'), ('NME4', '0.2466'), ('FAM195A', '0.2257'), ('RPUSD1', '0.3648'), ('NUBP2', '0.201'), ('CTD-3195I5.1', '1.3857'), ('CISD3', '0.222'), ('ICT1', '0.2142'), ('C17orf89', '0.201'), ('MRPL12', '0.2404'), ('RAC3', '0.2109'), ('GPI', '0.2157'), ('C19orf47', '0.7966'), ('TNNT1', '0.2083'), ('EPN1', '0.2983'), ('UBE2M', '0.307'), ('C22orf39', '0.2144'), ('MIF', '0.2165'), ('TOM1', '0.9632'), ('AL133493.2', '0.5076')]
-the unique 29  elements in  p-sgIRF1-2
-[('MYCBP', '0.266'), ('S100A1', '0.372'), ('LAMTOR2', '0.2393'), ('PTRHD1', '0.2172'), ('CENPA', '0.2264'), ('ATG9A', '0.5239'), ('UBE2E1', '0.2488'), ('DCTD', '0.3475'), ('LINC01003', '0.3605'), ('JPX', '0.3254'), ('FXN', '0.2628'), ('PCBD1', '0.2157'), ('SNCG', '0.2293'), ('SNX15', '0.6897'), ('CDKN3', '0.2828'), ('TMEM219', '0.2215'), ('COA3', '0.2068'), ('RP11-433M22.2', '4.4728'), ('TPGS2', '0.2066'), ('CFD', '0.2047'), ('POLR2E', '0.2088'), ('PLIN3', '0.2574'), ('CTXN1', '0.5386'), ('PGLS', '0.212'), ('NUDT19', '0.5616'), ('TYROBP', '0.471'), ('ZNF607', '0.5107'), ('POLR3H', '0.248'), ('SPATC1L', '0.2019')]
-the shared 6  elements: 
-[('CHCHD5', '0.2252', '0.2205'), ('UBXN7', '0.5075', '0.4979'), ('CXCL14', '0.3529', '0.4792'), ('HIST1H2BJ', '0.2926', '0.2395'), ('MYBL2', '0.2231', '0.2878'), ('CRKL', '0.2444', '0.2462')] 
-
-
-comparing up regulation of p-sgE2F4-6  and  p-sgE2F4-7 : 
+comparing up regulation of  p-sgE2F4-6  and  p-sgE2F4-7 : 
+The target gene was not upregulated by either perturbation
+ratio:  0.1111111111111111
 the unqiue 31  elements in  p-sgE2F4-6
 [('SMIM1', '0.2521'), ('SRM', '0.2198'), ('MRPL33', '0.2678'), ('MRPL53', '0.3144'), ('GYPC', '0.2289'), ('NBEAL1', '0.2329'), ('RPL29', '0.2061'), ('CXCL14', '0.3883'), ('HIST1H1C', '0.2289'), ('HIST1H2AC', '0.2115'), ('ORC3', '0.3838'), ('BRI3', '0.2716'), ('JPX', '0.2828'), ('RPL39', '0.2028'), ('RP11-10A14.5', '0.5225'), ('EIF4EBP1', '0.2105'), ('FUOM', '0.235'), ('RPS6KB2', '0.2852'), ('PHB2', '0.2159'), ('PRR13', '0.2329'), ('CS', '0.247'), ('PSMD9', '0.217'), ('MSRB1', '0.2475'), ('FLOT2', '0.2844'), ('CISD3', '0.2279'), ('C17orf89', '0.2067'), ('MRPL12', '0.2156'), ('DLGAP4', '0.3651'), ('ICAM3', '0.2322'), ('EIF3L', '0.2133'), ('ATP5L2', '0.2075')]
 the unique 14  elements in  p-sgE2F4-7
