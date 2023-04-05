@@ -1,6 +1,6 @@
 comparing up regulation of  p-sgELF1-2  and down regulation of  p-sgELF1-5 : 
 The target gene was not down regulated or up regulated by either perturbation
-no similar
+ratio:  0.0
 the unqiue 25  elements in  p-sgELF1-2
 [('CTNNBIP1', '0.2174'), ('PGD', '0.2273'), ('SMYD3', '0.2034'), ('MRPL53', '0.3085'), ('TMSB10', '0.2357'), ('NBEAL1', '0.2129'), ('CXCL14', '0.3709'), ('HIST1H2BJ', '0.2897'), ('LST1', '1.1307'), ('TMSB4X', '0.2298'), ('FTSJ1', '0.3156'), ('JPX', '0.243'), ('C8orf82', '0.2973'), ('TMEM141', '0.2165'), ('PCBD1', '0.214'), ('FUOM', '0.2692'), ('C12orf57', '0.2241'), ('PHB2', '0.2114'), ('PSME2', '0.2071'), ('RP11-433M22.2', '4.427'), ('MYBL2', '0.2502'), ('PGLS', '0.2266'), ('TYROBP', '0.3312'), ('SH3BGR', '0.3323'), ('SPATC1L', '0.218')]
 the unique 87  elements in  p-sgELF1-5
@@ -11,7 +11,7 @@ the shared 0  elements:
 
 comparing up regulation of  p-sgELF1-2  and down regulation of  p-sgELF1-1 : 
 The target gene was not down regulated or up regulated by either perturbation
-no similar
+ratio:  0.0
 the unqiue 25  elements in  p-sgELF1-2
 [('CTNNBIP1', '0.2174'), ('PGD', '0.2273'), ('SMYD3', '0.2034'), ('MRPL53', '0.3085'), ('TMSB10', '0.2357'), ('NBEAL1', '0.2129'), ('CXCL14', '0.3709'), ('HIST1H2BJ', '0.2897'), ('LST1', '1.1307'), ('TMSB4X', '0.2298'), ('FTSJ1', '0.3156'), ('JPX', '0.243'), ('C8orf82', '0.2973'), ('TMEM141', '0.2165'), ('PCBD1', '0.214'), ('FUOM', '0.2692'), ('C12orf57', '0.2241'), ('PHB2', '0.2114'), ('PSME2', '0.2071'), ('RP11-433M22.2', '4.427'), ('MYBL2', '0.2502'), ('PGLS', '0.2266'), ('TYROBP', '0.3312'), ('SH3BGR', '0.3323'), ('SPATC1L', '0.218')]
 the unique 70  elements in  p-sgELF1-1
@@ -22,7 +22,7 @@ the shared 0  elements:
 
 comparing up regulation of  p-sgELF1-2  and down regulation of  p-sgELF1-4 : 
 The target gene was not down regulated or up regulated by either perturbation
-no similar
+ratio:  0.0
 the unqiue 25  elements in  p-sgELF1-2
 [('CTNNBIP1', '0.2174'), ('PGD', '0.2273'), ('SMYD3', '0.2034'), ('MRPL53', '0.3085'), ('TMSB10', '0.2357'), ('NBEAL1', '0.2129'), ('CXCL14', '0.3709'), ('HIST1H2BJ', '0.2897'), ('LST1', '1.1307'), ('TMSB4X', '0.2298'), ('FTSJ1', '0.3156'), ('JPX', '0.243'), ('C8orf82', '0.2973'), ('TMEM141', '0.2165'), ('PCBD1', '0.214'), ('FUOM', '0.2692'), ('C12orf57', '0.2241'), ('PHB2', '0.2114'), ('PSME2', '0.2071'), ('RP11-433M22.2', '4.427'), ('MYBL2', '0.2502'), ('PGLS', '0.2266'), ('TYROBP', '0.3312'), ('SH3BGR', '0.3323'), ('SPATC1L', '0.218')]
 the unique 79  elements in  p-sgELF1-4
@@ -33,7 +33,7 @@ the shared 0  elements:
 
 comparing up regulation of  p-sgELF1-5  and down regulation of  p-sgELF1-1 : 
 The target gene was not down regulated or up regulated by either perturbation
-no similar
+ratio:  0.0
 the unqiue 23  elements in  p-sgELF1-5
 [('CXCL14', '0.3641'), ('HIST1H2BJ', '0.3389'), ('LST1', '0.9185'), ('NUDT1', '0.2044'), ('SOSTDC1', '0.5039'), ('SLC25A6', '0.2028'), ('JPX', '0.2801'), ('FXN', '0.2476'), ('PHF19', '0.2055'), ('FUOM', '0.2354'), ('FIBP', '0.3254'), ('RPS6KB2', '0.2008'), ('PHB2', '0.235'), ('PRR13', '0.216'), ('PSME2', '0.2435'), ('CDKN3', '0.2782'), ('GCHFR', '0.2223'), ('TMEM219', '0.2046'), ('MRPL12', '0.2248'), ('ECSIT', '0.257'), ('PGLS', '0.237'), ('RFXANK', '0.202'), ('TYROBP', '0.353')]
 the unique 70  elements in  p-sgELF1-1
@@ -44,7 +44,7 @@ the shared 0  elements:
 
 comparing up regulation of  p-sgELF1-5  and down regulation of  p-sgELF1-4 : 
 The target gene was not down regulated or up regulated by either perturbation
-no similar
+ratio:  0.0
 the unqiue 23  elements in  p-sgELF1-5
 [('CXCL14', '0.3641'), ('HIST1H2BJ', '0.3389'), ('LST1', '0.9185'), ('NUDT1', '0.2044'), ('SOSTDC1', '0.5039'), ('SLC25A6', '0.2028'), ('JPX', '0.2801'), ('FXN', '0.2476'), ('PHF19', '0.2055'), ('FUOM', '0.2354'), ('FIBP', '0.3254'), ('RPS6KB2', '0.2008'), ('PHB2', '0.235'), ('PRR13', '0.216'), ('PSME2', '0.2435'), ('CDKN3', '0.2782'), ('GCHFR', '0.2223'), ('TMEM219', '0.2046'), ('MRPL12', '0.2248'), ('ECSIT', '0.257'), ('PGLS', '0.237'), ('RFXANK', '0.202'), ('TYROBP', '0.353')]
 the unique 79  elements in  p-sgELF1-4
@@ -55,7 +55,7 @@ the shared 0  elements:
 
 comparing up regulation of  p-sgELF1-1  and down regulation of  p-sgELF1-4 : 
 The target gene was not down regulated or up regulated by either perturbation
-no similar
+ratio:  0.0
 the unqiue 26  elements in  p-sgELF1-1
 [('SRM', '0.2042'), ('CENPA', '0.254'), ('TMSB10', '0.2159'), ('CHCHD5', '0.2006'), ('NBEAL1', '0.2121'), ('C3orf38', '0.6252'), ('CXCL14', '0.4003'), ('HIST1H2BJ', '0.2967'), ('SLC25A6', '0.2031'), ('SUSD3', '0.392'), ('COQ4', '0.2158'), ('RASGEF1A', '0.4818'), ('C12orf57', '0.2084'), ('PRR13', '0.2061'), ('SOCS2', '0.2327'), ('PSME2', '0.2043'), ('ACSM3', '0.2059'), ('GINS2', '0.2169'), ('CDT1', '0.2391'), ('FLOT2', '0.2877'), ('SKA2', '0.2507'), ('MRPL12', '0.2043'), ('MED29', '0.3901'), ('ATF5', '0.2851'), ('BCL2L13', '0.2809'), ('LGALS1', '0.2004')]
 the unique 79  elements in  p-sgELF1-4
@@ -66,7 +66,7 @@ the shared 0  elements:
 
 comparing up regulation of  p-sgCREB1-5  and down regulation of  p-sgCREB1-4 : 
 The target gene was not down regulated or up regulated by either perturbation
-no similar
+ratio:  0.0
 the unqiue 28  elements in  p-sgCREB1-5
 [('SRM', '0.2132'), ('CENPA', '0.2131'), ('NBEAL1', '0.2094'), ('POMGNT2', '0.5577'), ('LINC01033', '0.2516'), ('CXCL14', '0.39'), ('HIST1H2BJ', '0.2912'), ('RBM3', '0.2214'), ('JPX', '0.2963'), ('RPL39', '0.2038'), ('YWHAZ', '0.2215'), ('SIRT1', '0.6726'), ('PPP1R14B', '0.2058'), ('TMEM106C', '0.3111'), ('CRADD', '0.2709'), ('FAM101B', '0.3904'), ('COA3', '0.2211'), ('CBX1', '0.2689'), ('RP11-433M22.2', '3.6098'), ('MRPL12', '0.2083'), ('MYBL2', '0.2591'), ('ICAM3', '0.2353'), ('PRR24', '0.2491'), ('NR1H2', '0.4141'), ('C19orf81', '0.2227'), ('EPN1', '0.3215'), ('SLC27A5', '0.2162'), ('UBE2M', '0.2914')]
 the unique 81  elements in  p-sgCREB1-4
@@ -77,7 +77,7 @@ the shared 0  elements:
 
 comparing up regulation of  p-sgCREB1-5  and down regulation of  p-sgCREB1-2 : 
 The target gene was not down regulated or up regulated by either perturbation
-no similar
+ratio:  0.0
 the unqiue 28  elements in  p-sgCREB1-5
 [('SRM', '0.2132'), ('CENPA', '0.2131'), ('NBEAL1', '0.2094'), ('POMGNT2', '0.5577'), ('LINC01033', '0.2516'), ('CXCL14', '0.39'), ('HIST1H2BJ', '0.2912'), ('RBM3', '0.2214'), ('JPX', '0.2963'), ('RPL39', '0.2038'), ('YWHAZ', '0.2215'), ('SIRT1', '0.6726'), ('PPP1R14B', '0.2058'), ('TMEM106C', '0.3111'), ('CRADD', '0.2709'), ('FAM101B', '0.3904'), ('COA3', '0.2211'), ('CBX1', '0.2689'), ('RP11-433M22.2', '3.6098'), ('MRPL12', '0.2083'), ('MYBL2', '0.2591'), ('ICAM3', '0.2353'), ('PRR24', '0.2491'), ('NR1H2', '0.4141'), ('C19orf81', '0.2227'), ('EPN1', '0.3215'), ('SLC27A5', '0.2162'), ('UBE2M', '0.2914')]
 the unique 78  elements in  p-sgCREB1-2
@@ -88,7 +88,7 @@ the shared 0  elements:
 
 comparing up regulation of  p-sgCREB1-4  and down regulation of  p-sgCREB1-2 : 
 The target gene was not down regulated or up regulated by either perturbation
-no similar
+ratio:  0.0
 the unqiue 28  elements in  p-sgCREB1-4
 [('RP11-558F24.4', '0.2927'), ('PGD', '0.217'), ('POLE4', '0.2059'), ('LIMS1', '0.2164'), ('LINC01033', '0.2471'), ('HIST1H4C', '0.206'), ('HIST1H2BJ', '0.2644'), ('CCDC167', '0.2221'), ('MPLKIP', '0.2761'), ('PRKAR2B', '0.2854'), ('AC073236.3', '0.2029'), ('MAGED1', '0.8921'), ('RP11-10A14.5', '0.4185'), ('HEMGN', '0.3232'), ('CCDC34', '0.216'), ('MYL6B', '0.2359'), ('PSME1', '0.2821'), ('PSME2', '0.2387'), ('RP11-433M22.2', '5.2132'), ('SKA2', '0.2961'), ('IER3IP1-1', '0.2075'), ('MMP24-AS1', '0.2413'), ('MYBL2', '0.276'), ('PPP4R1L', '1.015'), ('RPSAP58', '0.21'), ('ZNF607', '0.531'), ('LENG8', '0.297'), ('SPATC1L', '0.2152')]
 the unique 78  elements in  p-sgCREB1-2
@@ -99,7 +99,7 @@ the shared 0  elements:
 
 comparing up regulation of  p-sgEGR1-4  and down regulation of  p-sgEGR1-2 : 
 The target gene was not down regulated or up regulated by either perturbation
-no similar
+ratio:  0.0
 the unqiue 36  elements in  p-sgEGR1-4
 [('HES4', '0.2284'), ('SRM', '0.2211'), ('CENPA', '0.2165'), ('POLR2D', '0.3174'), ('STRADB', '0.5176'), ('CXCL14', '0.3914'), ('HIST1H2BC', '0.2616'), ('HIST1H2BJ', '0.3459'), ('JPX', '0.3201'), ('HMGB3', '0.2183'), ('FAM58A', '0.3667'), ('NAA10', '0.2003'), ('COQ4', '0.2679'), ('TAF10', '0.2402'), ('C11orf24', '0.2523'), ('LAMTOR1', '0.2022'), ('PHB2', '0.2314'), ('SMAGP', '0.2327'), ('PRR13', '0.2608'), ('MRP63', '0.2112'), ('PSME2', '0.2392'), ('NME4', '0.2155'), ('STUB1', '0.2061'), ('HN1L', '0.272'), ('NTHL1', '0.2416'), ('E2F4', '0.2423'), ('GCSH', '0.6186'), ('GINS2', '0.2427'), ('COA3', '0.2439'), ('MRPL10', '0.2387'), ('MRPL12', '0.2399'), ('TYMS', '0.2382'), ('PRR24', '0.263'), ('PRPF31', '0.2422'), ('RRP7A', '0.2872'), ('TYMP', '0.3986')]
 the unique 83  elements in  p-sgEGR1-2
@@ -110,7 +110,7 @@ the shared 0  elements:
 
 comparing up regulation of  p-sgEGR1-4  and down regulation of  p-sgEGR1-3 : 
 The target gene was not down regulated or up regulated by either perturbation
-no similar
+ratio:  0.0
 the unqiue 36  elements in  p-sgEGR1-4
 [('HES4', '0.2284'), ('SRM', '0.2211'), ('CENPA', '0.2165'), ('POLR2D', '0.3174'), ('STRADB', '0.5176'), ('CXCL14', '0.3914'), ('HIST1H2BC', '0.2616'), ('HIST1H2BJ', '0.3459'), ('JPX', '0.3201'), ('HMGB3', '0.2183'), ('FAM58A', '0.3667'), ('NAA10', '0.2003'), ('COQ4', '0.2679'), ('TAF10', '0.2402'), ('C11orf24', '0.2523'), ('LAMTOR1', '0.2022'), ('PHB2', '0.2314'), ('SMAGP', '0.2327'), ('PRR13', '0.2608'), ('MRP63', '0.2112'), ('PSME2', '0.2392'), ('NME4', '0.2155'), ('STUB1', '0.2061'), ('HN1L', '0.272'), ('NTHL1', '0.2416'), ('E2F4', '0.2423'), ('GCSH', '0.6186'), ('GINS2', '0.2427'), ('COA3', '0.2439'), ('MRPL10', '0.2387'), ('MRPL12', '0.2399'), ('TYMS', '0.2382'), ('PRR24', '0.263'), ('PRPF31', '0.2422'), ('RRP7A', '0.2872'), ('TYMP', '0.3986')]
 the unique 70  elements in  p-sgEGR1-3
@@ -121,7 +121,7 @@ the shared 0  elements:
 
 comparing up regulation of  p-sgEGR1-2  and down regulation of  p-sgEGR1-3 : 
 The target gene was not down regulated or up regulated by either perturbation
-no similar
+ratio:  0.0
 the unqiue 29  elements in  p-sgEGR1-2
 [('PGD', '0.2045'), ('SRM', '0.2086'), ('FAM89A', '0.325'), ('PTRHD1', '0.2108'), ('CENPA', '0.2323'), ('GTF3C2', '0.4615'), ('MRPL53', '0.2875'), ('GCFC2', '0.4752'), ('POLR2D', '0.2689'), ('OXNAD1', '0.4005'), ('RAB28', '0.4844'), ('LINC01033', '0.2474'), ('CXCL14', '0.3519'), ('HIST1H4C', '0.2084'), ('HIST1H2BJ', '0.2542'), ('MPLKIP', '0.2179'), ('BRI3', '0.2839'), ('C7orf73', '0.2012'), ('FAM58A', '0.297'), ('FUOM', '0.2943'), ('PRR13', '0.2223'), ('PSME2', '0.2875'), ('GCHFR', '0.2482'), ('HDDC3', '0.2626'), ('RPUSD1', '0.4062'), ('TMEM219', '0.2047'), ('MYBL2', '0.2784'), ('CTD-2369P2.8', '1.2241'), ('TYROBP', '0.3504')]
 the unique 70  elements in  p-sgEGR1-3
@@ -132,7 +132,7 @@ the shared 0  elements:
 
 comparing up regulation of  p-sgELK1-6  and down regulation of  p-sgELK1-7 : 
 The target gene was not down regulated or up regulated by either perturbation
-no similar
+ratio:  0.0
 the unqiue 27  elements in  p-sgELK1-6
 [('HES4', '0.2201'), ('SRM', '0.2089'), ('LYPLA2', '0.2615'), ('DUSP12', '0.3191'), ('PTRHD1', '0.2284'), ('POLR2D', '0.272'), ('AC018890.6', '1.0512'), ('NBEAL1', '0.2113'), ('H1FX', '0.2924'), ('ANAPC13', '0.2004'), ('LINC01033', '0.2578'), ('HIST1H4C', '0.2078'), ('HIST1H2BJ', '0.2704'), ('SOSTDC1', '0.4539'), ('JHDM1D-AS1', '0.8659'), ('RBM3', '0.2097'), ('MAGED1', '0.6621'), ('JPX', '0.3064'), ('PCBD1', '0.2011'), ('PPP1R14B', '0.2012'), ('MCRS1', '0.2712'), ('MYL6B', '0.2047'), ('GCHFR', '0.2267'), ('RP11-433M22.2', '4.2354'), ('MRPL12', '0.2065'), ('PGLS', '0.2475'), ('C22orf39', '0.2082')]
 the unique 81  elements in  p-sgELK1-7
@@ -143,7 +143,7 @@ the shared 0  elements:
 
 comparing up regulation of  p-sgELK1-6  and down regulation of  p-sgELK1-1 : 
 The target gene was not down regulated or up regulated by either perturbation
-no similar
+ratio:  0.0
 the unqiue 27  elements in  p-sgELK1-6
 [('HES4', '0.2201'), ('SRM', '0.2089'), ('LYPLA2', '0.2615'), ('DUSP12', '0.3191'), ('PTRHD1', '0.2284'), ('POLR2D', '0.272'), ('AC018890.6', '1.0512'), ('NBEAL1', '0.2113'), ('H1FX', '0.2924'), ('ANAPC13', '0.2004'), ('LINC01033', '0.2578'), ('HIST1H4C', '0.2078'), ('HIST1H2BJ', '0.2704'), ('SOSTDC1', '0.4539'), ('JHDM1D-AS1', '0.8659'), ('RBM3', '0.2097'), ('MAGED1', '0.6621'), ('JPX', '0.3064'), ('PCBD1', '0.2011'), ('PPP1R14B', '0.2012'), ('MCRS1', '0.2712'), ('MYL6B', '0.2047'), ('GCHFR', '0.2267'), ('RP11-433M22.2', '4.2354'), ('MRPL12', '0.2065'), ('PGLS', '0.2475'), ('C22orf39', '0.2082')]
 the unique 80  elements in  p-sgELK1-1
@@ -154,7 +154,7 @@ the shared 0  elements:
 
 comparing up regulation of  p-sgELK1-7  and down regulation of  p-sgELK1-1 : 
 The target gene was not down regulated or up regulated by either perturbation
-no similar
+ratio:  0.0
 the unqiue 21  elements in  p-sgELK1-7
 [('R3HDM1', '0.3697'), ('MEF2C', '0.23'), ('DCP2', '0.2665'), ('CXCL14', '0.3293'), ('GNA12', '0.6274'), ('SOSTDC1', '0.6008'), ('AP1S2', '0.2872'), ('RBM3', '0.2127'), ('JPX', '0.2454'), ('TAF10', '0.2485'), ('PHB2', '0.2181'), ('LIMA1', '0.5188'), ('MYL6B', '0.2071'), ('SOCS2', '0.2542'), ('CRADD', '0.2946'), ('PSME2', '0.2367'), ('RPUSD1', '0.3787'), ('CTD-2576D5.4', '0.316'), ('GINS2', '0.2347'), ('TOP2A', '0.2354'), ('PGLS', '0.2215')]
 the unique 80  elements in  p-sgELK1-1
@@ -165,7 +165,7 @@ the shared 0  elements:
 
 comparing up regulation of  p-sgNR2C2-5  and down regulation of  p-sgNR2C2-3 : 
 The target gene was not down regulated or up regulated by either perturbation
-no similar
+ratio:  0.0
 the unqiue 25  elements in  p-sgNR2C2-5
 [('TMSB10', '0.2333'), ('POLR2D', '0.2763'), ('NBEAL1', '0.2254'), ('UBE2E1', '0.2653'), ('COX17', '0.3784'), ('H1FX', '0.3358'), ('ATP5I', '0.2933'), ('ERGIC1', '0.4008'), ('HIST1H2BJ', '0.2147'), ('LST1', '0.9087'), ('BRI3', '0.2246'), ('SLC25A6', '0.206'), ('CSAG1', '0.2138'), ('RPL35', '0.227'), ('PCBD1', '0.2323'), ('POLD4', '0.2393'), ('ANAPC15', '0.4084'), ('CDKN3', '0.237'), ('SNW1', '0.2731'), ('TMEM219', '0.2016'), ('CTD-3195I5.1', '1.1085'), ('MRPL10', '0.2619'), ('TPGS2', '0.2021'), ('PGLS', '0.2129'), ('SNRPD3', '0.2074')]
 the unique 59  elements in  p-sgNR2C2-3
@@ -176,7 +176,7 @@ the shared 0  elements:
 
 comparing up regulation of  p-sgNR2C2-5  and down regulation of  p-sgNR2C2-2 : 
 The target gene was not down regulated or up regulated by either perturbation
-no similar
+ratio:  0.0
 the unqiue 25  elements in  p-sgNR2C2-5
 [('TMSB10', '0.2333'), ('POLR2D', '0.2763'), ('NBEAL1', '0.2254'), ('UBE2E1', '0.2653'), ('COX17', '0.3784'), ('H1FX', '0.3358'), ('ATP5I', '0.2933'), ('ERGIC1', '0.4008'), ('HIST1H2BJ', '0.2147'), ('LST1', '0.9087'), ('BRI3', '0.2246'), ('SLC25A6', '0.206'), ('CSAG1', '0.2138'), ('RPL35', '0.227'), ('PCBD1', '0.2323'), ('POLD4', '0.2393'), ('ANAPC15', '0.4084'), ('CDKN3', '0.237'), ('SNW1', '0.2731'), ('TMEM219', '0.2016'), ('CTD-3195I5.1', '1.1085'), ('MRPL10', '0.2619'), ('TPGS2', '0.2021'), ('PGLS', '0.2129'), ('SNRPD3', '0.2074')]
 the unique 86  elements in  p-sgNR2C2-2
@@ -187,7 +187,7 @@ the shared 0  elements:
 
 comparing up regulation of  p-sgNR2C2-3  and down regulation of  p-sgNR2C2-2 : 
 The target gene was not down regulated or up regulated by either perturbation
-no similar
+ratio:  0.0
 the unqiue 34  elements in  p-sgNR2C2-3
 [('PGD', '0.2595'), ('TMSB10', '0.2407'), ('POLR2D', '0.3385'), ('NBEAL1', '0.2159'), ('RPL29', '0.2028'), ('H1FX', '0.3764'), ('MSL2', '0.9201'), ('CTBP1', '0.3789'), ('LINC01033', '0.2977'), ('CXCL14', '0.3955'), ('ERGIC1', '0.3627'), ('HIST1H4C', '0.223'), ('HIST1H4H', '0.3295'), ('HIST1H2BJ', '0.2888'), ('MPLKIP', '0.237'), ('SLC25A6', '0.2311'), ('ARHGAP6', '0.2938'), ('JPX', '0.2747'), ('FPGS', '0.4164'), ('RASGEF1A', '0.4788'), ('PHB2', '0.2267'), ('RPL41', '0.2198'), ('FAM96A', '0.2044'), ('RPUSD1', '0.425'), ('SF3B3', '0.2787'), ('ACLY', '0.3044'), ('PTRF', '0.2186'), ('SMAD2', '0.5669'), ('RPL17', '0.2156'), ('PGLS', '0.2148'), ('ZNF83', '0.4748'), ('ZNF787', '0.4855'), ('MPST', '0.2098'), ('EIF3L', '0.2143')]
 the unique 86  elements in  p-sgNR2C2-2
@@ -198,7 +198,7 @@ the shared 0  elements:
 
 comparing up regulation of  p-sgGABPA-1  and down regulation of  p-sgGABPA-9 : 
 The target gene was not down regulated or up regulated by either perturbation
-no similar
+ratio:  0.0
 the unqiue 17  elements in  p-sgGABPA-1
 [('SRM', '0.2045'), ('KIAA1522', '0.3882'), ('MRPL53', '0.3188'), ('CXCL14', '0.4199'), ('HIST1H2BJ', '0.22'), ('KRIT1', '0.27'), ('BRI3', '0.243'), ('MAGED1', '0.837'), ('JPX', '0.2729'), ('RP11-10A14.5', '0.4063'), ('FPGS', '0.4121'), ('MED27', '0.5065'), ('PPP1R14B', '0.2338'), ('CDKN3', '0.2954'), ('SNW1', '0.2628'), ('GCHFR', '0.2976'), ('MT1E', '1.8772')]
 the unique 111  elements in  p-sgGABPA-9
@@ -209,7 +209,7 @@ the shared 0  elements:
 
 comparing up regulation of  p-sgYY1-3  and down regulation of  p-sgYY1-10 : 
 The target gene was not down regulated or up regulated by either perturbation
-no similar
+ratio:  0.0
 the unqiue 33  elements in  p-sgYY1-3
 [('SPRR2D', '1.7184'), ('CENPA', '0.3082'), ('ACTR2', '0.2148'), ('TMSB10', '0.2045'), ('AC016723.4', '0.2337'), ('C3orf62', '0.8288'), ('H1FX', '0.3042'), ('CDV3', '0.2847'), ('RNF130', '0.2767'), ('HIST1H4C', '0.2111'), ('LST1', '1.011'), ('SOSTDC1', '0.4138'), ('BRI3', '0.2411'), ('MAGED1', '0.709'), ('JPX', '0.2562'), ('RPL39', '0.2269'), ('ARHGEF39', '0.6005'), ('C10orf54', '0.5308'), ('SNCG', '0.2829'), ('POLD4', '0.2426'), ('SH2B3', '0.5044'), ('CKAP2', '0.4023'), ('PSME2', '0.2006'), ('CDKN3', '0.2453'), ('CBX1', '0.3156'), ('RP11-433M22.2', '3.2105'), ('HOXB2', '0.2256'), ('TYROBP', '0.4598'), ('PRR24', '0.3157'), ('ATF5', '0.2152'), ('NR1H2', '0.372'), ('C19orf81', '0.204'), ('UBE2M', '0.2617')]
 the unique 85  elements in  p-sgYY1-10
@@ -220,7 +220,7 @@ the shared 0  elements:
 
 comparing up regulation of  p-sgETS1-5  and down regulation of  p-sgETS1-3 : 
 The target gene was not down regulated or up regulated by either perturbation
-no similar
+ratio:  0.0
 the unqiue 22  elements in  p-sgETS1-5
 [('HES4', '0.2294'), ('SRM', '0.2435'), ('SLC16A1-AS1', '0.6808'), ('GTF3C2', '0.3633'), ('MRPS30', '0.2089'), ('CXCL14', '0.374'), ('ERGIC1', '0.3593'), ('BRI3', '0.2459'), ('JPX', '0.2425'), ('RPL39', '0.2216'), ('DGAT1', '0.2956'), ('PCBD1', '0.2001'), ('ZNF511', '0.2322'), ('FUOM', '0.2725'), ('PPP1R14B', '0.2484'), ('PRR13', '0.2154'), ('NR2F2-AS1', '1.1175'), ('RANGRF', '0.4096'), ('CBX1', '0.2953'), ('HOXB2', '0.2527'), ('MRPL12', '0.2008'), ('PGLS', '0.2177')]
 the unique 71  elements in  p-sgETS1-3
@@ -231,7 +231,7 @@ the shared 0  elements:
 
 comparing up regulation of  p-sgIRF1-3  and down regulation of  p-sgIRF1-2 : 
 The target gene was not down regulated or up regulated by either perturbation
-no similar
+ratio:  0.0
 the unqiue 50  elements in  p-sgIRF1-3
 [('HES4', '0.2069'), ('SMIM1', '0.2294'), ('SRM', '0.2341'), ('KIAA1522', '0.3992'), ('NAV1', '0.4028'), ('POLE4', '0.2192'), ('COA5', '0.2724'), ('CHCHD5', '0.2252'), ('THAP4', '0.3571'), ('NDUFAF3', '0.2009'), ('FOXL2', '0.461'), ('UBXN7', '0.5075'), ('CXCL14', '0.3529'), ('HIST1H2BJ', '0.2926'), ('POLD2', '0.2368'), ('POP7', '0.2016'), ('MAGED1', '0.829'), ('HMGN5', '0.6799'), ('YWHAZ', '0.2722'), ('SUSD3', '0.3983'), ('COQ4', '0.2643'), ('FUOM', '0.2798'), ('PPP1R14B', '0.238'), ('PHB2', '0.2047'), ('PRR13', '0.2124'), ('MRP63', '0.2049'), ('GCHFR', '0.3195'), ('RFX7', '1.2391'), ('ARID3B', '0.7571'), ('NME4', '0.2466'), ('FAM195A', '0.2257'), ('RPUSD1', '0.3648'), ('NUBP2', '0.201'), ('CTD-3195I5.1', '1.3857'), ('CISD3', '0.222'), ('ICT1', '0.2142'), ('C17orf89', '0.201'), ('MRPL12', '0.2404'), ('RAC3', '0.2109'), ('MYBL2', '0.2231'), ('GPI', '0.2157'), ('C19orf47', '0.7966'), ('TNNT1', '0.2083'), ('EPN1', '0.2983'), ('UBE2M', '0.307'), ('C22orf39', '0.2144'), ('CRKL', '0.2444'), ('MIF', '0.2165'), ('TOM1', '0.9632'), ('AL133493.2', '0.5076')]
 the unique 82  elements in  p-sgIRF1-2
@@ -242,7 +242,7 @@ the shared 0  elements:
 
 comparing up regulation of  p-sgE2F4-6  and down regulation of  p-sgE2F4-7 : 
 The target gene was not down regulated or up regulated by either perturbation
-no similar
+ratio:  0.0
 the unqiue 36  elements in  p-sgE2F4-6
 [('SMIM1', '0.2521'), ('SRM', '0.2198'), ('MRPL33', '0.2678'), ('MRPL53', '0.3144'), ('GYPC', '0.2289'), ('AC016723.4', '0.2306'), ('NBEAL1', '0.2329'), ('RPL29', '0.2061'), ('LINC01033', '0.2808'), ('CXCL14', '0.3883'), ('HIST1H1C', '0.2289'), ('HIST1H2BC', '0.2881'), ('HIST1H2AC', '0.2115'), ('HIST1H2BJ', '0.3653'), ('ORC3', '0.3838'), ('BRI3', '0.2716'), ('JPX', '0.2828'), ('RPL39', '0.2028'), ('RP11-10A14.5', '0.5225'), ('EIF4EBP1', '0.2105'), ('PCBD1', '0.2426'), ('FUOM', '0.235'), ('RPS6KB2', '0.2852'), ('PHB2', '0.2159'), ('PRR13', '0.2329'), ('CS', '0.247'), ('PSMD9', '0.217'), ('MSRB1', '0.2475'), ('FLOT2', '0.2844'), ('CISD3', '0.2279'), ('C17orf89', '0.2067'), ('MRPL12', '0.2156'), ('DLGAP4', '0.3651'), ('ICAM3', '0.2322'), ('EIF3L', '0.2133'), ('ATP5L2', '0.2075')]
 the unique 75  elements in  p-sgE2F4-7
