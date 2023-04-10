@@ -1,4 +1,4 @@
-dual-target,gene,e log2_fc,a log2_fc,FC1,FC2,estimDownreg,obsDownreg,common
+dual-target,gene,e log2_fc,a log2_fc,FC1,FC2,estimDownreg,obsDownReg,common
 ELF1-ETS1,MT-CYB,-0.4915,-0.2054,-0.2532,-0.2383,98,10,1
 CREB1-GABPA,MT-ND3,-0.5824,-0.2327,-0.2678,-0.3146,93,6,1
 CREB1-YY1,COX6A1P2,-0.205,-0.4241,NA,-0.205,115,8,1

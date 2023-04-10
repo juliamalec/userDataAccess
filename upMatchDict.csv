@@ -1,4 +1,4 @@
-dual-target,gene,e log2_fc,a log2_fc,FC1,FC2,estimUpreg,obsUpreg,common
+dual-target,gene,e log2_fc,a log2_fc,FC1,FC2,estimUpreg,obsUpReg,common
 EGR1-YY1,DLK1,0.2343,0.4258,NA,0.2343,38,6,1
 NR2C2-GABPA,TMSB10,0.2163,0.2234,0.2163,NA,38,8,3
 NR2C2-GABPA,SLC25A6,0.2025,0.2132,0.2025,NA,38,8,3
