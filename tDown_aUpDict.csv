@@ -1,4 +1,4 @@
-dual-target,gene,e log2_fc,a log2_fc,FC1,FC2,estimDownreg,actualUpreg,common
+dual-target,gene,e log2_fc,a log2_fc,FC1,FC2,estimDownreg,obsUpreg,common
 EGR1-NR2C2,HBE1,-0.2592,0.6348,-0.2592,NA,98,18,1
 EGR1-GABPA,HBE1,-0.2592,0.5549,-0.2592,NA,84,17,1
 ELK1-IRF1,MALAT1,-0.5255,0.2146,-0.2652,-0.2603,105,17,1
