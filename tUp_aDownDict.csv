@@ -1,4 +1,4 @@
-dual-target,gene,e log2_fc,a log2_fc,FC1,FC2,numEstim,numDual,numSame
+dual-target,gene,e log2_fc,a log2_fc,FC1,FC2,estimUpreg,actualDownreg,common
 EGR1-YY1,TYROBP,0.6883,-0.9747,0.3152,0.3731,38,9,1
 NR2C2-ETS1,LST1,0.9167,-2.9182,0.9167,NA,27,19,1
 NR2C2-IRF1,LST1,0.9167,-5.5443,0.9167,NA,43,20,1
